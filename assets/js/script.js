@@ -117,7 +117,7 @@ function loadQuestion(index) {
     else if (q.type === "Kategori") {
         document.getElementById('ui-kategori').classList.remove('hidden');
         const cols = q.columns || ["Benar", "Salah"];
-        document.querySelector('#ui-kategori thead tr').innerHTML = `<th>Pernyataan</th>` + cols.map(c => `<th>${c}</th>`).join('');
+        document.querySelector('#ui-kategori thead tr').innerHTML = `<th>${q.rowLabel || "Pernyataan"}</th>` + cols.map(c => `<th>${c}</th>`).join('');
         document.getElementById('table-body').innerHTML = q.items.map((item, rowIdx) => {
             let rowHtml = `<td>${item}</td>`;
             cols.forEach((col, colIdx) => {
