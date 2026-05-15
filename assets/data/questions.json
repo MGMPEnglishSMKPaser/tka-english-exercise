@@ -1,0 +1,1748 @@
+[
+  {
+    "num": 1,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Descriptive",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Beauty of Bunaken National Park</h3><p>Bunaken National Park is a world-famous marine park located at the northern tip of Sulawesi Island, Indonesia. Established in 1991, it covers an area of approximately 890 square kilometers. The park is renowned for its incredibly rich biodiversity, particularly its underwater life. It is home to over 390 species of coral and thousands of fish species, making it a paradise for divers and snorkelers from all around the globe.</p><p>The most striking feature of Bunaken is its massive underwater walls, also known as \"hanging gardens.\" These vertical coral walls drop deep into the ocean, covered in vibrant sponges, sea fans, and soft corals. The water is exceptionally clear, with visibility reaching up to 30 meters on a good day. This clarity allows visitors to see the intricate details of the reef and the schools of colorful fish, such as butterflyfish, damselfish, and the occasional sea turtle swimming gracefully by.</p><p>On the islands themselves, the environment is equally beautiful. Lush mangroves fringe the coastline, providing a habitat for various birds and crabs. The local community is very involved in preserving the park, working alongside the government to reduce plastic waste and protect the reefs from destructive fishing practices.</p><p>Visiting Bunaken is not just about enjoying the view; it is an education in the importance of marine conservation.</p>",
+    "q": "What is the primary reason Bunaken National Park is famous among international visitors?",
+    "options": [
+      "Its large land area for hiking",
+      "The variety of rare birds in the mangroves",
+      "Its rich underwater biodiversity and coral species",
+      "The government buildings located on the islands",
+      "Its proximity to the northern tip of Sumatra"
+    ],
+    "key": "C",
+    "correct": [
+      2
+    ]
+  },
+  {
+    "num": 2,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Descriptive",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
+    "text": "<h3 style='text-align: center;'>The Beauty of Bunaken National Park</h3><p>Bunaken National Park is a world-famous marine park located at the northern tip of Sulawesi Island, Indonesia. Established in 1991, it covers an area of approximately 890 square kilometers. The park is renowned for its incredibly rich biodiversity, particularly its underwater life. It is home to over 390 species of coral and thousands of fish species, making it a paradise for divers and snorkelers from all around the globe.</p><p>The most striking feature of Bunaken is its massive underwater walls, also known as \"hanging gardens.\" These vertical coral walls drop deep into the ocean, covered in vibrant sponges, sea fans, and soft corals. The water is exceptionally clear, with visibility reaching up to 30 meters on a good day. This clarity allows visitors to see the intricate details of the reef and the schools of colorful fish, such as butterflyfish, damselfish, and the occasional sea turtle swimming gracefully by.</p><p>On the islands themselves, the environment is equally beautiful. Lush mangroves fringe the coastline, providing a habitat for various birds and crabs. The local community is very involved in preserving the park, working alongside the government to reduce plastic waste and protect the reefs from destructive fishing practices.</p><p>Visiting Bunaken is not just about enjoying the view; it is an education in the importance of marine conservation.</p>",
+    "q": "What can be inferred about the \"hanging gardens\" mentioned in the text?",
+    "options": [
+      "They are actual flower gardens located on the hills of the island.",
+      "They are vertical underwater structures covered in marine life.",
+      "They are man-made structures built to attract tourists.",
+      "They are only visible during the low tide.",
+      "They consist mainly of plastic waste collected by locals."
+    ],
+    "key": "B",
+    "correct": [
+      1
+    ]
+  },
+  {
+    "num": 3,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Descriptive",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Beauty of Bunaken National Park</h3><p>Bunaken National Park is a world-famous marine park located at the northern tip of Sulawesi Island, Indonesia. Established in 1991, it covers an area of approximately 890 square kilometers. The park is renowned for its incredibly rich biodiversity, particularly its underwater life. It is home to over 390 species of coral and thousands of fish species, making it a paradise for divers and snorkelers from all around the globe.</p><p>The most striking feature of Bunaken is its massive underwater walls, also known as \"hanging gardens.\" These vertical coral walls drop deep into the ocean, covered in vibrant sponges, sea fans, and soft corals. The water is exceptionally clear, with visibility reaching up to 30 meters on a good day. This clarity allows visitors to see the intricate details of the reef and the schools of colorful fish, such as butterflyfish, damselfish, and the occasional sea turtle swimming gracefully by.</p><p>On the islands themselves, the environment is equally beautiful. Lush mangroves fringe the coastline, providing a habitat for various birds and crabs. The local community is very involved in preserving the park, working alongside the government to reduce plastic waste and protect the reefs from destructive fishing practices.</p><p>Visiting Bunaken is not just about enjoying the view; it is an education in the importance of marine conservation.</p>",
+    "q": "According to the text, how far can a diver see underwater when the conditions are good?",
+    "options": [
+      "10 meters",
+      "1991 meters",
+      "890 meters",
+      "30 meters",
+      "5 meters"
+    ],
+    "key": "D",
+    "correct": [
+      3
+    ]
+  },
+  {
+    "num": 4,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Descriptive",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Beauty of Bunaken National Park</h3><p>Bunaken National Park is a world-famous marine park located at the northern tip of Sulawesi Island, Indonesia. Established in 1991, it covers an area of approximately 890 square kilometers. The park is renowned for its incredibly rich biodiversity, particularly its underwater life. It is home to over 390 species of coral and thousands of fish species, making it a paradise for divers and snorkelers from all around the globe.</p><p>The most striking feature of Bunaken is its massive underwater walls, also known as \"hanging gardens.\" These vertical coral walls drop deep into the ocean, covered in vibrant sponges, sea fans, and soft corals. The water is exceptionally clear, with visibility reaching up to 30 meters on a good day. This clarity allows visitors to see the intricate details of the reef and the schools of colorful fish, such as butterflyfish, damselfish, and the occasional sea turtle swimming gracefully by.</p><p>On the islands themselves, the environment is equally beautiful. Lush mangroves fringe the coastline, providing a habitat for various birds and crabs. The local community is very involved in preserving the park, working alongside the government to reduce plastic waste and protect the reefs from destructive fishing practices.</p><p>Visiting Bunaken is not just about enjoying the view; it is an education in the importance of marine conservation.</p>",
+    "q": "What benefit does the exceptional water clarity provide to visitors?",
+    "options": [
+      "It allows them to see intricate details of the reef and colorful fish.",
+      "It makes the mangroves look much greener.",
+      "It helps the local community reduce plastic waste.",
+      "It makes the underwater walls look smaller than they are.",
+      "It prevents sea turtles from swimming away."
+    ],
+    "key": "A",
+    "correct": [
+      0
+    ]
+  },
+  {
+    "num": 5,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Descriptive",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral yang tidak secara eksplisit dinyatakan dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Beauty of Bunaken National Park</h3><p>Bunaken National Park is a world-famous marine park located at the northern tip of Sulawesi Island, Indonesia. Established in 1991, it covers an area of approximately 890 square kilometers. The park is renowned for its incredibly rich biodiversity, particularly its underwater life. It is home to over 390 species of coral and thousands of fish species, making it a paradise for divers and snorkelers from all around the globe.</p><p>The most striking feature of Bunaken is its massive underwater walls, also known as \"hanging gardens.\" These vertical coral walls drop deep into the ocean, covered in vibrant sponges, sea fans, and soft corals. The water is exceptionally clear, with visibility reaching up to 30 meters on a good day. This clarity allows visitors to see the intricate details of the reef and the schools of colorful fish, such as butterflyfish, damselfish, and the occasional sea turtle swimming gracefully by.</p><p>On the islands themselves, the environment is equally beautiful. Lush mangroves fringe the coastline, providing a habitat for various birds and crabs. The local community is very involved in preserving the park, working alongside the government to reduce plastic waste and protect the reefs from destructive fishing practices.</p><p>Visiting Bunaken is not just about enjoying the view; it is an education in the importance of marine conservation.</p>",
+    "q": "Which of the following best describes the author's purpose in the last paragraph?",
+    "options": [
+      "To persuade people to move to Sulawesi.",
+      "To criticize the government's role in the park.",
+      "To list all the fish species found in the mangroves.",
+      "To complain about the amount of plastic waste in the ocean.",
+      "To highlight the collaboration between the community and conservation efforts."
+    ],
+    "key": "E",
+    "correct": [
+      4
+    ]
+  },
+  {
+    "num": 6,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Descriptive",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Modern Library</h3><p>The Central Library is a three-story building located in the heart of the city. Unlike traditional libraries that are often dark and silent, this building features a modern architectural design with large glass windows that allow natural sunlight to fill the rooms.</p><p>On the first floor, there is a spacious \"Digital Zone\" equipped with high-speed computers and tablets for public use. Moving up to the second floor, visitors find the \"silent study area.\" This floor is lined with floor-to-ceiling bookshelves containing thousands of fiction and non-fiction titles. The atmosphere here is calm, with soft carpets and comfortable ergonomic chairs. Small wooden desks are placed near the windows, giving students a peaceful view of the city park while they read.</p><p>The third floor is dedicated to the \"Creative Hub.\" This is a collaborative space where people can meet for group discussions or workshops. There are several glass-walled meeting rooms, a small cafe serving organic coffee, and a 3D-printing station.</p><p>The library is not just a place to borrow books; it has become a community center where technology and traditional learning meet.</p>",
+    "q": "Based on the text, which of the following facilities can be found inside the Central Library? (Select all that apply)",
+    "options": [
+      "A station for 3D-printing",
+      "An outdoor swimming pool",
+      "High-speed computers for public use",
+      "A large cinema hall",
+      "A cafe that serves organic coffee"
+    ],
+    "key": "A, C, E",
+    "correct": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "num": 7,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Descriptive",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
+    "text": "<h3 style='text-align: center;'>The Modern Library</h3><p>The Central Library is a three-story building located in the heart of the city. Unlike traditional libraries that are often dark and silent, this building features a modern architectural design with large glass windows that allow natural sunlight to fill the rooms.</p><p>On the first floor, there is a spacious \"Digital Zone\" equipped with high-speed computers and tablets for public use. Moving up to the second floor, visitors find the \"silent study area.\" This floor is lined with floor-to-ceiling bookshelves containing thousands of fiction and non-fiction titles. The atmosphere here is calm, with soft carpets and comfortable ergonomic chairs. Small wooden desks are placed near the windows, giving students a peaceful view of the city park while they read.</p><p>The third floor is dedicated to the \"Creative Hub.\" This is a collaborative space where people can meet for group discussions or workshops. There are several glass-walled meeting rooms, a small cafe serving organic coffee, and a 3D-printing station.</p><p>The library is not just a place to borrow books; it has become a community center where technology and traditional learning meet.</p>",
+    "q": "Where is the Central Library located?",
+    "options": [
+      "Inside a large shopping mall",
+      "On the top floor of a skyscraper",
+      "Beside the city park",
+      "Underneath the main train station",
+      "Far away from the city center"
+    ],
+    "key": "C",
+    "correct": [
+      2
+    ]
+  },
+  {
+    "num": 8,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Descriptive",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Mengklasifikasi: mampu mengelompokkan orang, benda, tempat, atau peristiwa dalam teks berdasarkan kategori tertentu.",
+    "text": "<h3 style='text-align: center;'>The Modern Library</h3><p>The Central Library is a three-story building located in the heart of the city. Unlike traditional libraries that are often dark and silent, this building features a modern architectural design with large glass windows that allow natural sunlight to fill the rooms.</p><p>On the first floor, there is a spacious \"Digital Zone\" equipped with high-speed computers and tablets for public use. Moving up to the second floor, visitors find the \"silent study area.\" This floor is lined with floor-to-ceiling bookshelves containing thousands of fiction and non-fiction titles. The atmosphere here is calm, with soft carpets and comfortable ergonomic chairs. Small wooden desks are placed near the windows, giving students a peaceful view of the city park while they read.</p><p>The third floor is dedicated to the \"Creative Hub.\" This is a collaborative space where people can meet for group discussions or workshops. There are several glass-walled meeting rooms, a small cafe serving organic coffee, and a 3D-printing station.</p><p>The library is not just a place to borrow books; it has become a community center where technology and traditional learning meet.</p>",
+    "q": "Which statements accurately describe the atmosphere or design of the library? (Select all that apply)",
+    "options": [
+      "The building is made entirely of dark wood.",
+      "Large glass walls allow for plenty of natural light.",
+      "The library is always noisy and crowded.",
+      "It features a modern and open architectural style.",
+      "There are no windows in the study areas."
+    ],
+    "key": "B, D",
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "num": 9,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Descriptive",
+    "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
+    "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya berdasarkan bukti atau sekadar berusaha mempengaruhi pembaca.",
+    "text": "<h3 style='text-align: center;'>The Modern Library</h3><p>The Central Library is a three-story building located in the heart of the city. Unlike traditional libraries that are often dark and silent, this building features a modern architectural design with large glass windows that allow natural sunlight to fill the rooms.</p><p>On the first floor, there is a spacious \"Digital Zone\" equipped with high-speed computers and tablets for public use. Moving up to the second floor, visitors find the \"silent study area.\" This floor is lined with floor-to-ceiling bookshelves containing thousands of fiction and non-fiction titles. The atmosphere here is calm, with soft carpets and comfortable ergonomic chairs. Small wooden desks are placed near the windows, giving students a peaceful view of the city park while they read.</p><p>The third floor is dedicated to the \"Creative Hub.\" This is a collaborative space where people can meet for group discussions or workshops. There are several glass-walled meeting rooms, a small cafe serving organic coffee, and a 3D-printing station.</p><p>The library is not just a place to borrow books; it has become a community center where technology and traditional learning meet.</p>",
+    "q": "What is the primary goal of the Central Library according to the text?",
+    "options": [
+      "To promote a culture of reading and community engagement.",
+      "To sell as many organic coffee cups as possible.",
+      "To replace the city park as a hangout spot.",
+      "To train professional 3D-printing engineers.",
+      "To act as a storage for old and unused furniture."
+    ],
+    "key": "A",
+    "correct": [
+      0
+    ]
+  },
+  {
+    "num": 10,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Descriptive",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Meringkas: mampu menyajikan kembali isi teks secara ringkas dengan mengutip bagian penting.",
+    "text": "<h3 style='text-align: center;'>The Modern Library</h3><p>The Central Library is a three-story building located in the heart of the city. Unlike traditional libraries that are often dark and silent, this building features a modern architectural design with large glass windows that allow natural sunlight to fill the rooms.</p><p>On the first floor, there is a spacious \"Digital Zone\" equipped with high-speed computers and tablets for public use. Moving up to the second floor, visitors find the \"silent study area.\" This floor is lined with floor-to-ceiling bookshelves containing thousands of fiction and non-fiction titles. The atmosphere here is calm, with soft carpets and comfortable ergonomic chairs. Small wooden desks are placed near the windows, giving students a peaceful view of the city park while they read.</p><p>The third floor is dedicated to the \"Creative Hub.\" This is a collaborative space where people can meet for group discussions or workshops. There are several glass-walled meeting rooms, a small cafe serving organic coffee, and a 3D-printing station.</p><p>The library is not just a place to borrow books; it has become a community center where technology and traditional learning meet.</p>",
+    "q": "In the final paragraph, what does the author imply about the library's future role?",
+    "options": [
+      "It will eventually become a traditional shopping center.",
+      "It will stop offering digital services next year.",
+      "It will remain a vital center for learning and technology.",
+      "It will be moved to a different location soon.",
+      "The library is better than any other library in the country."
+    ],
+    "key": "D",
+    "correct": [
+      2
+    ]
+  },
+  {
+    "num": 11,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Descriptive",
+    "columns": [
+      "Fact",
+      "Opinion"
+    ],
+    "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
+    "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya berdasarkan bukti atau sekadar berusaha mempengaruhi pembaca.",
+    "text": "<h3 style='text-align: center;'>My Helpful Robot, \"Bimo\"</h3><p>I have a unique assistant at home named Bimo. Bimo is a small, round vacuum robot that helps my family keep the house clean. He is about 30 centimeters in diameter and has a sleek, metallic silver finish. On his top surface, there is a single glowing blue button that serves as his power switch.</p><p>Bimo is equipped with advanced sensors that allow him to navigate around furniture without bumping into things. When he encounters a wall or a chair leg, he gently slows down and changes direction. He is also smart enough to detect stairs, so he never falls down. My favorite feature is his \"auto-charge\" function; when his battery is low, he automatically finds his way back to his small charging dock in the corner of the living room.</p><p>Although Bimo is just a machine, we treat him like a pet. He makes a cheerful \"beep\" sound when he finishes cleaning a room. He is very quiet, so I can study while he works on the floor. Bimo saves us a lot of time and energy every day.</p>",
+    "q": "Categorize each statement based on the text into Fact or Opinion.",
+    "items": [
+      "Bimo has a diameter of about 30 centimeters.",
+      "Bimo is the most adorable robot ever made.",
+      "Bimo returns to his dock when his battery is low.",
+      "Bimo makes a beep sound after cleaning."
+    ],
+    "key": "1-Fact, 2-Opinion, 3-Fact, 4-Fact",
+    "correct": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "num": 12,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Descriptive",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>My Helpful Robot, \"Bimo\"</h3><p>I have a unique assistant at home named Bimo. Bimo is a small, round vacuum robot that helps my family keep the house clean. He is about 30 centimeters in diameter and has a sleek, metallic silver finish. On his top surface, there is a single glowing blue button that serves as his power switch.</p><p>Bimo is equipped with advanced sensors that allow him to navigate around furniture without bumping into things. When he encounters a wall or a chair leg, he gently slows down and changes direction. He is also smart enough to detect stairs, so he never falls down. My favorite feature is his \"auto-charge\" function; when his battery is low, he automatically finds his way back to his small charging dock in the corner of the living room.</p><p>Although Bimo is just a machine, we treat him like a pet. He makes a cheerful \"beep\" sound when he finishes cleaning a room. He is very quiet, so I can study while he works on the floor. Bimo saves us a lot of time and energy every day.</p>",
+    "q": "Determine if the following statements are True or False based on the text.",
+    "items": [
+      "Bimo's body is silver and round.",
+      "There are five different colored buttons on Bimo's head.",
+      "Bimo can talk and have long conversations with the owner.",
+      "Bimo is capable of charging himself automatically."
+    ],
+    "key": "1-True, 2-False, 3-False, 4-True",
+    "correct": [
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "num": 13,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Descriptive",
+    "columns": [
+      "Yes",
+      "No"
+    ],
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan karakter tokoh: mampu menyimpulkan sifat atau kepribadian tokoh berdasarkan petunjuk eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>My Helpful Robot, \"Bimo\"</h3><p>I have a unique assistant at home named Bimo. Bimo is a small, round vacuum robot that helps my family keep the house clean. He is about 30 centimeters in diameter and has a sleek, metallic silver finish. On his top surface, there is a single glowing blue button that serves as his power switch.</p><p>Bimo is equipped with advanced sensors that allow him to navigate around furniture without bumping into things. When he encounters a wall or a chair leg, he gently slows down and changes direction. He is also smart enough to detect stairs, so he never falls down. My favorite feature is his \"auto-charge\" function; when his battery is low, he automatically finds his way back to his small charging dock in the corner of the living room.</p><p>Although Bimo is just a machine, we treat him like a pet. He makes a cheerful \"beep\" sound when he finishes cleaning a room. He is very quiet, so I can study while he works on the floor. Bimo saves us a lot of time and energy every day.</p>",
+    "q": "Does Bimo possess the following qualities according to the text? Choose Yes or No.",
+    "items": [
+      "Independent (can charge himself).",
+      "Aggressive (bumps into walls forcefully).",
+      "Efficient (saves time for the owner).",
+      "Human-like (looks exactly like a person)."
+    ],
+    "key": "1-Yes, 2-No, 3-Yes, 4-No",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 14,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Descriptive",
+    "columns": [
+      "Correct",
+      "Incorrect"
+    ],
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
+    "text": "<h3 style='text-align: center;'>My Helpful Robot, \"Bimo\"</h3><p>I have a unique assistant at home named Bimo. Bimo is a small, round vacuum robot that helps my family keep the house clean. He is about 30 centimeters in diameter and has a sleek, metallic silver finish. On his top surface, there is a single glowing blue button that serves as his power switch.</p><p>Bimo is equipped with advanced sensors that allow him to navigate around furniture without bumping into things. When he encounters a wall or a chair leg, he gently slows down and changes direction. He is also smart enough to detect stairs, so he never falls down. My favorite feature is his \"auto-charge\" function; when his battery is low, he automatically finds his way back to his small charging dock in the corner of the living room.</p><p>Although Bimo is just a machine, we treat him like a pet. He makes a cheerful \"beep\" sound when he finishes cleaning a room. He is very quiet, so I can study while he works on the floor. Bimo saves us a lot of time and energy every day.</p>",
+    "q": "Match the Cause and Effect based on the text. Are these pairs Correct or Incorrect?",
+    "items": [
+      "Low battery -> Bimo goes to the charging dock.",
+      "Seeing stairs -> Bimo falls down intentionally.",
+      "Advanced sensors -> Bimo changes direction near walls.",
+      "Blue button pressed -> Bimo starts dancing."
+    ],
+    "key": "1-Correct, 2-Incorrect, 3-Correct, 4-Incorrect",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 15,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Descriptive",
+    "columns": [
+      "Reality",
+      "Fantasy"
+    ],
+    "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
+    "sub_comp": "Menilai realitas atau fantasi: mampu menganalisis peristiwa dalam teks dapat terjadi dalam kehidupan nyata berdasarkan pengalaman dan pengetahuan pribadi.",
+    "text": "<h3 style='text-align: center;'>My Helpful Robot, \"Bimo\"</h3><p>I have a unique assistant at home named Bimo. Bimo is a small, round vacuum robot that helps my family keep the house clean. He is about 30 centimeters in diameter and has a sleek, metallic silver finish. On his top surface, there is a single glowing blue button that serves as his power switch.</p><p>Bimo is equipped with advanced sensors that allow him to navigate around furniture without bumping into things. When he encounters a wall or a chair leg, he gently slows down and changes direction. He is also smart enough to detect stairs, so he never falls down. My favorite feature is his \"auto-charge\" function; when his battery is low, he automatically finds his way back to his small charging dock in the corner of the living room.</p><p>Although Bimo is just a machine, we treat him like a pet. He makes a cheerful \"beep\" sound when he finishes cleaning a room. He is very quiet, so I can study while he works on the floor. Bimo saves us a lot of time and energy every day.</p>",
+    "q": "Determine if the following descriptions of Bimo represent Reality or Fantasy.",
+    "items": [
+      "A robot that vacuums the floor automatically.",
+      "A machine that detects objects using sensors.",
+      "A device that emits beeps to communicate status.",
+      "A robot that feels sad when it is lonely."
+    ],
+    "key": "1-Reality, 2-Reality, 3-Reality, 4-Fantasy",
+    "correct": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 16,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Recount",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>A Memorable Trip to Borobudur Temple</h3><p>Last summer, my family and I decided to visit Borobudur Temple in Magelang. We left our house in Yogyakarta at 4:30 AM to catch the sunrise. The air was chilly, but we were very excited. When we arrived, we had to climb hundreds of steep stone stairs to reach the top. As the sun began to rise, the sky turned into a beautiful mix of orange and purple. The view of the surrounding mountains and the morning mist was breathtaking. I took many photos of the stupas and the intricate relief carvings on the walls.</p><p>After spending two hours exploring the temple, we went down and had a traditional breakfast at a nearby local stall. Although my legs were sore from climbing, the experience was truly unforgettable.</p>",
+    "q": "What was the main reason the writer's family left very early in the morning?",
+    "options": [
+      "To avoid the heavy traffic in Magelang",
+      "To witness the sunrise from the temple",
+      "To have breakfast at a local stall",
+      "To clean the stupas before other tourists arrived",
+      "To avoid the cold weather in Yogyakarta"
+    ],
+    "key": "B",
+    "correct": [
+      1
+    ]
+  },
+  {
+    "num": 17,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Recount",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>A Memorable Trip to Borobudur Temple</h3><p>Last summer, my family and I decided to visit Borobudur Temple in Magelang. We left our house in Yogyakarta at 4:30 AM to catch the sunrise. The air was chilly, but we were very excited. When we arrived, we had to climb hundreds of steep stone stairs to reach the top. As the sun began to rise, the sky turned into a beautiful mix of orange and purple. The view of the surrounding mountains and the morning mist was breathtaking. I took many photos of the stupas and the intricate relief carvings on the walls.</p><p>After spending two hours exploring the temple, we went down and had a traditional breakfast at a nearby local stall. Although my legs were sore from climbing, the experience was truly unforgettable.</p>",
+    "q": "How did the writer feel at the end of the trip?",
+    "options": [
+      "Disappointed because it was too cold",
+      "Regretful about climbing the stairs",
+      "Angry because the breakfast was local",
+      "Tired but very happy with the experience",
+      "Confused by the relief carvings on the walls"
+    ],
+    "key": "D",
+    "correct": [
+      3
+    ]
+  },
+  {
+    "num": 18,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Recount",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral yang tidak secara eksplisit dinyatakan dalam teks.",
+    "text": "<h3 style='text-align: center;'>A Memorable Trip to Borobudur Temple</h3><p>Last summer, my family and I decided to visit Borobudur Temple in Magelang. We left our house in Yogyakarta at 4:30 AM to catch the sunrise. The air was chilly, but we were very excited. When we arrived, we had to climb hundreds of steep stone stairs to reach the top. As the sun began to rise, the sky turned into a beautiful mix of orange and purple. The view of the surrounding mountains and the morning mist was breathtaking. I took many photos of the stupas and the intricate relief carvings on the walls.</p><p>After spending two hours exploring the temple, we went down and had a traditional breakfast at a nearby local stall. Although my legs were sore from climbing, the experience was truly unforgettable.</p>",
+    "q": "The word 'breathtaking' in the second paragraph is closest in meaning to ...",
+    "options": [
+      "Stunning",
+      "Scary",
+      "Ordinary",
+      "Exhausting",
+      "Suffocating"
+    ],
+    "key": "A",
+    "correct": [
+      0
+    ]
+  },
+  {
+    "num": 19,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Recount",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>A Memorable Trip to Borobudur Temple</h3><p>Last summer, my family and I decided to visit Borobudur Temple in Magelang. We left our house in Yogyakarta at 4:30 AM to catch the sunrise. The air was chilly, but we were very excited. When we arrived, we had to climb hundreds of steep stone stairs to reach the top. As the sun began to rise, the sky turned into a beautiful mix of orange and purple. The view of the surrounding mountains and the morning mist was breathtaking. I took many photos of the stupas and the intricate relief carvings on the walls.</p><p>After spending two hours exploring the temple, we went down and had a traditional breakfast at a nearby local stall. Although my legs were sore from climbing, the experience was truly unforgettable.</p>",
+    "q": "Which part of the recount text is represented by the first paragraph?",
+    "options": [
+      "Re-orientation",
+      "Conflict",
+      "Orientation",
+      "Series of Events",
+      "Resolution"
+    ],
+    "key": "C",
+    "correct": [
+      2
+    ]
+  },
+  {
+    "num": 20,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Recount",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
+    "text": "<h3 style='text-align: center;'>A Memorable Trip to Borobudur Temple</h3><p>Last summer, my family and I decided to visit Borobudur Temple in Magelang. We left our house in Yogyakarta at 4:30 AM to catch the sunrise. The air was chilly, but we were very excited. When we arrived, we had to climb hundreds of steep stone stairs to reach the top. As the sun began to rise, the sky turned into a beautiful mix of orange and purple. The view of the surrounding mountains and the morning mist was breathtaking. I took many photos of the stupas and the intricate relief carvings on the walls.</p><p>After spending two hours exploring the temple, we went down and had a traditional breakfast at a nearby local stall. Although my legs were sore from climbing, the experience was truly unforgettable.</p>",
+    "q": "Why were the writer's legs sore?",
+    "options": [
+      "Because they walked from Yogyakarta to Magelang",
+      "Because they stood too long for the sunrise",
+      "Because they sat on the cold stone stupas",
+      "Because they forgot to have breakfast",
+      "Because they climbed hundreds of steep stairs"
+    ],
+    "key": "E",
+    "correct": [
+      4
+    ]
+  },
+  {
+    "num": 21,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Recount",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>Thomas Alva Edison</h3><p>Thomas Alva Edison was one of the greatest inventors in history. Born in 1847 in Ohio, USA, he had very little formal education. As a child, he was often considered \"slow\" by his teachers, but his mother believed in him and taught him at home. This encouraged his curiosity and love for experiments.</p><p>Throughout his life, Edison patented 1,093 inventions. His most famous contribution was the practical incandescent electric light bulb. Before succeeding, he famously failed thousands of times. He once said, \"I have not failed. I've just found 10,000 ways that won't work.\" In addition to the light bulb, he also invented the phonograph and the motion picture camera.</p><p>Edison's hard work changed the way people lived and worked all over the world. He passed away in 1931, leaving behind a legacy of persistence and innovation.</p>",
+    "q": "Which of the following were invented or developed by Thomas Alva Edison according to the text? (Select all that apply)",
+    "options": [
+      "The phonograph",
+      "The telephone",
+      "The motion picture camera",
+      "The steam engine",
+      "The practical electric light bulb"
+    ],
+    "key": "A, C, E",
+    "correct": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "num": 22,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Recount",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan karakter tokoh: mampu menyimpulkan sifat atau kepribadian tokoh berdasarkan petunjuk eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>Thomas Alva Edison</h3><p>Thomas Alva Edison was one of the greatest inventors in history. Born in 1847 in Ohio, USA, he had very little formal education. As a child, he was often considered \"slow\" by his teachers, but his mother believed in him and taught him at home. This encouraged his curiosity and love for experiments.</p><p>Throughout his life, Edison patented 1,093 inventions. His most famous contribution was the practical incandescent electric light bulb. Before succeeding, he famously failed thousands of times. He once said, \"I have not failed. I've just found 10,000 ways that won't work.\" In addition to the light bulb, he also invented the phonograph and the motion picture camera.</p><p>Edison's hard work changed the way people lived and worked all over the world. He passed away in 1931, leaving behind a legacy of persistence and innovation.</p>",
+    "q": "Based on the text, what traits best describe Thomas Alva Edison? (Select all that apply)",
+    "options": [
+      "Easily discouraged by failure",
+      "Highly persistent and hardworking",
+      "Born into a wealthy and highly educated family",
+      "Naturally curious about how things work",
+      "Unwilling to try new experiments"
+    ],
+    "key": "B, D",
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "num": 23,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Recount",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>Thomas Alva Edison</h3><p>Thomas Alva Edison was one of the greatest inventors in history. Born in 1847 in Ohio, USA, he had very little formal education. As a child, he was often considered \"slow\" by his teachers, but his mother believed in him and taught him at home. This encouraged his curiosity and love for experiments.</p><p>Throughout his life, Edison patented 1,093 inventions. His most famous contribution was the practical incandescent electric light bulb. Before succeeding, he famously failed thousands of times. He once said, \"I have not failed. I've just found 10,000 ways that won't work.\" In addition to the light bulb, he also invented the phonograph and the motion picture camera.</p><p>Edison's hard work changed the way people lived and worked all over the world. He passed away in 1931, leaving behind a legacy of persistence and innovation.</p>",
+    "q": "Which statements about Edison’s childhood are true according to the text? (Select all that apply)",
+    "options": [
+      "He was born in Ohio, USA.",
+      "He spent many years in a formal school.",
+      "His teachers praised him for being the smartest student.",
+      "His mother played a significant role in his education.",
+      "He started inventing light bulbs when he was five years old."
+    ],
+    "key": "A, D",
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "num": 24,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Recount",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
+    "text": "<h3 style='text-align: center;'>Thomas Alva Edison</h3><p>Thomas Alva Edison was one of the greatest inventors in history. Born in 1847 in Ohio, USA, he had very little formal education. As a child, he was often considered \"slow\" by his teachers, but his mother believed in him and taught him at home. This encouraged his curiosity and love for experiments.</p><p>Throughout his life, Edison patented 1,093 inventions. His most famous contribution was the practical incandescent electric light bulb. Before succeeding, he famously failed thousands of times. He once said, \"I have not failed. I've just found 10,000 ways that won't work.\" In addition to the light bulb, he also invented the phonograph and the motion picture camera.</p><p>Edison's hard work changed the way people lived and worked all over the world. He passed away in 1931, leaving behind a legacy of persistence and innovation.</p>",
+    "q": "What can we learn from Edison’s quote: 'I have not failed. I've just found 10,000 ways that won't work'? (Select all that apply)",
+    "options": [
+      "He didn't care about the results of his work.",
+      "He viewed mistakes as a part of the learning process.",
+      "He had a positive perspective toward failure.",
+      "He was bragging about how many times he could fail.",
+      "He wanted to encourage people to stop doing experiments."
+    ],
+    "key": "B, C",
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "num": 25,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Recount",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral yang tidak secara eksplisit dinyatakan dalam teks.",
+    "text": "<h3 style='text-align: center;'>Thomas Alva Edison</h3><p>Thomas Alva Edison was one of the greatest inventors in history. Born in 1847 in Ohio, USA, he had very little formal education. As a child, he was often considered \"slow\" by his teachers, but his mother believed in him and taught him at home. This encouraged his curiosity and love for experiments.</p><p>Throughout his life, Edison patented 1,093 inventions. His most famous contribution was the practical incandescent electric light bulb. Before succeeding, he famously failed thousands of times. He once said, \"I have not failed. I've just found 10,000 ways that won't work.\" In addition to the light bulb, he also invented the phonograph and the motion picture camera.</p><p>Edison's hard work changed the way people lived and worked all over the world. He passed away in 1931, leaving behind a legacy of persistence and innovation.</p>",
+    "q": "Why did the author write this text? (Select all that apply)",
+    "options": [
+      "To provide information about Edison's life and achievements.",
+      "To persuade readers to buy electric light bulbs.",
+      "To explain the scientific formula of electricity.",
+      "To inspire readers through Edison's persistence.",
+      "To criticize the American education system in the 1800s."
+    ],
+    "key": "A, D",
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "num": 26,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Recount",
+    "columns": [
+      "Fact",
+      "Opinion"
+    ],
+    "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
+    "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya berdasarkan bukti atau sekadar berusaha mempengaruhi pembaca.",
+    "text": "<h3 style='text-align: center;'>The Proclamation of Indonesian Independence</h3><p>The Proclamation of Indonesian Independence was a turning point in the nation's history. It occurred on Friday, August 17, 1945. The event was prompted by the surrender of Japan to the Allied forces after the atomic bombings of Hiroshima and Nagasaki. Earlier that morning, a group of young activists (the \"Pemuda\") urged Soekarno and Hatta to declare independence immediately. After intense discussions, the proclamation text was drafted at the house of Rear Admiral Maeda.</p><p>At 10:00 AM, Soekarno, accompanied by Moh. Hatta, read the short declaration in front of his house at Jalan Pegangsaan Timur No. 56, Jakarta. The red-and-white flag, sewn by Mrs. Fatmawati, was hoisted, and the national anthem \"Indonesia Raya\" was sung. This simple yet solemn ceremony marked the birth of a new sovereign nation, free from colonial rule.</p>",
+    "q": "Categorize each statement based on the text into Fact or Opinion.",
+    "items": [
+      "The proclamation took place on August 17, 1945.",
+      "The flag was sewn by Mrs. Fatmawati.",
+      "The ceremony was the most beautiful event in the world.",
+      "The text was drafted at Rear Admiral Maeda's house."
+    ],
+    "key": "1-Fact, 2-Fact, 3-Opinion, 4-Fact",
+    "correct": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "num": 27,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Recount",
+    "columns": [
+      "True",
+      "False"
+    ],
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Proclamation of Indonesian Independence</h3><p>The Proclamation of Indonesian Independence was a turning point in the nation's history. It occurred on Friday, August 17, 1945. The event was prompted by the surrender of Japan to the Allied forces after the atomic bombings of Hiroshima and Nagasaki. Earlier that morning, a group of young activists (the \"Pemuda\") urged Soekarno and Hatta to declare independence immediately. After intense discussions, the proclamation text was drafted at the house of Rear Admiral Maeda.</p><p>At 10:00 AM, Soekarno, accompanied by Moh. Hatta, read the short declaration in front of his house at Jalan Pegangsaan Timur No. 56, Jakarta. The red-and-white flag, sewn by Mrs. Fatmawati, was hoisted, and the national anthem \"Indonesia Raya\" was sung. This simple yet solemn ceremony marked the birth of a new sovereign nation, free from colonial rule.</p>",
+    "q": "Determine if the following statements are True or False based on the text.",
+    "items": [
+      "Japan's surrender to the Allies triggered the event.",
+      "The proclamation was held at a large stadium in Jakarta.",
+      "Moh. Hatta read the text alone without Soekarno.",
+      "The national anthem 'Indonesia Raya' was played during the event."
+    ],
+    "key": "1-True, 2-False, 3-False, 4-True",
+    "correct": [
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "num": 28,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Recount",
+    "columns": [
+      "Yes",
+      "No"
+    ],
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan urutan kejadian: mampu memperkirakan isi selanjutnya dari teks.",
+    "text": "<h3 style='text-align: center;'>The Proclamation of Indonesian Independence</h3><p>The Proclamation of Indonesian Independence was a turning point in the nation's history. It occurred on Friday, August 17, 1945. The event was prompted by the surrender of Japan to the Allied forces after the atomic bombings of Hiroshima and Nagasaki. Earlier that morning, a group of young activists (the \"Pemuda\") urged Soekarno and Hatta to declare independence immediately. After intense discussions, the proclamation text was drafted at the house of Rear Admiral Maeda.</p><p>At 10:00 AM, Soekarno, accompanied by Moh. Hatta, read the short declaration in front of his house at Jalan Pegangsaan Timur No. 56, Jakarta. The red-and-white flag, sewn by Mrs. Fatmawati, was hoisted, and the national anthem \"Indonesia Raya\" was sung. This simple yet solemn ceremony marked the birth of a new sovereign nation, free from colonial rule.</p>",
+    "q": "Did these events happen before Soekarno read the proclamation?",
+    "items": [
+      "Japan surrendered to the Allied forces.",
+      "The red-and-white flag was hoisted.",
+      "The proclamation text was drafted at Maeda's house.",
+      "The nation celebrated its 10th anniversary."
+    ],
+    "key": "1-Yes, 2-No, 3-Yes, 4-No",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 29,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Recount",
+    "columns": [
+      "Correct",
+      "Incorrect"
+    ],
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Proclamation of Indonesian Independence</h3><p>The Proclamation of Indonesian Independence was a turning point in the nation's history. It occurred on Friday, August 17, 1945. The event was prompted by the surrender of Japan to the Allied forces after the atomic bombings of Hiroshima and Nagasaki. Earlier that morning, a group of young activists (the \"Pemuda\") urged Soekarno and Hatta to declare independence immediately. After intense discussions, the proclamation text was drafted at the house of Rear Admiral Maeda.</p><p>At 10:00 AM, Soekarno, accompanied by Moh. Hatta, read the short declaration in front of his house at Jalan Pegangsaan Timur No. 56, Jakarta. The red-and-white flag, sewn by Mrs. Fatmawati, was hoisted, and the national anthem \"Indonesia Raya\" was sung. This simple yet solemn ceremony marked the birth of a new sovereign nation, free from colonial rule.</p>",
+    "q": "Match the figures with their roles mentioned in the text. Are these pairs Correct or Incorrect?",
+    "items": [
+      "Soekarno: Reader of the proclamation text.",
+      "Mrs. Fatmawati: Person who sewed the flag.",
+      "Rear Admiral Maeda: The person who read the anthem.",
+      "The 'Pemuda': Activists who urged for independence."
+    ],
+    "key": "1-Correct, 2-Correct, 3-Incorrect, 4-Correct",
+    "correct": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "num": 30,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Recount",
+    "columns": [
+      "Yes",
+      "No"
+    ],
+    "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
+    "sub_comp": "Menilai kesesuaian: mampu menentukan bagian teks yang paling sesuai untuk menggambarkan karakter utama atau aspek lain dari bacaan.",
+    "text": "<h3 style='text-align: center;'>The Proclamation of Indonesian Independence</h3><p>The Proclamation of Indonesian Independence was a turning point in the nation's history. It occurred on Friday, August 17, 1945. The event was prompted by the surrender of Japan to the Allied forces after the atomic bombings of Hiroshima and Nagasaki. Earlier that morning, a group of young activists (the \"Pemuda\") urged Soekarno and Hatta to declare independence immediately. After intense discussions, the proclamation text was drafted at the house of Rear Admiral Maeda.</p><p>At 10:00 AM, Soekarno, accompanied by Moh. Hatta, read the short declaration in front of his house at Jalan Pegangsaan Timur No. 56, Jakarta. The red-and-white flag, sewn by Mrs. Fatmawati, was hoisted, and the national anthem \"Indonesia Raya\" was sung. This simple yet solemn ceremony marked the birth of a new sovereign nation, free from colonial rule.</p>",
+    "q": "Does the text describe the proclamation ceremony using these adjectives?",
+    "items": [
+      "Solemn (Khidmat)",
+      "Glamorous (Mewah)",
+      "Simple (Sederhana)",
+      "Chaotic (Kacau)"
+    ],
+    "key": "1-Yes, 2-No, 3-Yes, 4-No",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 31,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Narrative",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Weaver and the Golden Thread</h3><p>In a small village tucked between two purple mountains, there lived a young weaver named Elara. Elara was known for her steady hands and her ability to create the softest blankets in the land. However, she was never satisfied. She dreamed of weaving a fabric that could capture the light of the moon.</p><p>One evening, while she was working late, a tiny spider with silver legs crawled onto her loom. Instead of brushing it away, Elara watched as the spider spun a web that shimmered like diamonds. \"If only I had thread as bright as your silk,\" Elara sighed. To her surprise, the spider spoke in a voice like clicking needles. \"I will give you a spool of golden thread,\" the spider said, \"but you must promise to weave a garment for someone who has nothing, rather than selling it for gold.\" Elara greedily agreed, thinking only of the fame such a dress would bring her.</p><p>The next morning, a spool of glowing thread appeared. Elara worked feverishly for three days, crafting a gown so beautiful it blinded the eyes. She planned to show it to the King. However, as she finished the last stitch, the gold turned into dry straw. The gown became heavy and ugly. Confused and crying, Elara remembered the spider's warning.</p><p>Just then, an old, shivering woman passed by her window. Elara felt a sudden pang of guilt. She took the straw gown, which was still warm, and wrapped it around the woman’s shoulders. The moment the fabric touched the beggar, it transformed back into radiant gold, warming the woman instantly. Elara finally understood that the magic of the thread was not in its color, but in the kindness of the weaver’s heart.</p>",
+    "q": "What was Elara’s main ambition at the beginning of the story?",
+    "options": [
+      "To become the richest person in the purple mountains",
+      "To learn how to speak to magical insects",
+      "To create a fabric that looked like moonlight",
+      "To travel to the King's palace and live there",
+      "To build a larger house for her family"
+    ],
+    "key": "C",
+    "correct": [
+      2
+    ]
+  },
+  {
+    "num": 32,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Narrative",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
+    "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Weaver and the Golden Thread</h3><p>In a small village tucked between two purple mountains, there lived a young weaver named Elara. Elara was known for her steady hands and her ability to create the softest blankets in the land. However, she was never satisfied. She dreamed of weaving a fabric that could capture the light of the moon.</p><p>One evening, while she was working late, a tiny spider with silver legs crawled onto her loom. Instead of brushing it away, Elara watched as the spider spun a web that shimmered like diamonds. \"If only I had thread as bright as your silk,\" Elara sighed. To her surprise, the spider spoke in a voice like clicking needles. \"I will give you a spool of golden thread,\" the spider said, \"but you must promise to weave a garment for someone who has nothing, rather than selling it for gold.\" Elara greedily agreed, thinking only of the fame such a dress would bring her.</p><p>The next morning, a spool of glowing thread appeared. Elara worked feverishly for three days, crafting a gown so beautiful it blinded the eyes. She planned to show it to the King. However, as she finished the last stitch, the gold turned into dry straw. The gown became heavy and ugly. Confused and crying, Elara remembered the spider's warning.</p><p>Just then, an old, shivering woman passed by her window. Elara felt a sudden pang of guilt. She took the straw gown, which was still warm, and wrapped it around the woman’s shoulders. The moment the fabric touched the beggar, it transformed back into radiant gold, warming the woman instantly. Elara finally understood that the magic of the thread was not in its color, but in the kindness of the weaver’s heart.</p>",
+    "q": "Why did the golden gown turn into dry straw?",
+    "options": [
+      "Because Elara intended to sell it for her own fame",
+      "Because the spider was actually an evil spirit",
+      "Because Elara did not finish the weaving in time",
+      "Because the sunlight was too bright for the thread",
+      "Because the thread was of poor quality"
+    ],
+    "key": "A",
+    "correct": [
+      0
+    ]
+  },
+  {
+    "num": 33,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Narrative",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Weaver and the Golden Thread</h3><p>In a small village tucked between two purple mountains, there lived a young weaver named Elara. Elara was known for her steady hands and her ability to create the softest blankets in the land. However, she was never satisfied. She dreamed of weaving a fabric that could capture the light of the moon.</p><p>One evening, while she was working late, a tiny spider with silver legs crawled onto her loom. Instead of brushing it away, Elara watched as the spider spun a web that shimmered like diamonds. \"If only I had thread as bright as your silk,\" Elara sighed. To her surprise, the spider spoke in a voice like clicking needles. \"I will give you a spool of golden thread,\" the spider said, \"but you must promise to weave a garment for someone who has nothing, rather than selling it for gold.\" Elara greedily agreed, thinking only of the fame such a dress would bring her.</p><p>The next morning, a spool of glowing thread appeared. Elara worked feverishly for three days, crafting a gown so beautiful it blinded the eyes. She planned to show it to the King. However, as she finished the last stitch, the gold turned into dry straw. The gown became heavy and ugly. Confused and crying, Elara remembered the spider's warning.</p><p>Just then, an old, shivering woman passed by her window. Elara felt a sudden pang of guilt. She took the straw gown, which was still warm, and wrapped it around the woman’s shoulders. The moment the fabric touched the beggar, it transformed back into radiant gold, warming the woman instantly. Elara finally understood that the magic of the thread was not in its color, but in the kindness of the weaver’s heart.</p>",
+    "q": "What did the spider ask for in exchange for the golden thread?",
+    "options": [
+      "Elara had to give the spider her loom",
+      "Elara had to weave a blanket for the King",
+      "Elara had to keep the thread a secret forever",
+      "Elara had to feed the spider every night",
+      "Elara had to make a garment for a poor person"
+    ],
+    "key": "E",
+    "correct": [
+      4
+    ]
+  },
+  {
+    "num": 34,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Narrative",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
+    "sub_comp": "Menyimpulkan karakter tokoh: mampu menyimpulkan sifat atau kepribadian tokoh berdasarkan petunjuk eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Weaver and the Golden Thread</h3><p>In a small village tucked between two purple mountains, there lived a young weaver named Elara. Elara was known for her steady hands and her ability to create the softest blankets in the land. However, she was never satisfied. She dreamed of weaving a fabric that could capture the light of the moon.</p><p>One evening, while she was working late, a tiny spider with silver legs crawled onto her loom. Instead of brushing it away, Elara watched as the spider spun a web that shimmered like diamonds. \"If only I had thread as bright as your silk,\" Elara sighed. To her surprise, the spider spoke in a voice like clicking needles. \"I will give you a spool of golden thread,\" the spider said, \"but you must promise to weave a garment for someone who has nothing, rather than selling it for gold.\" Elara greedily agreed, thinking only of the fame such a dress would bring her.</p><p>The next morning, a spool of glowing thread appeared. Elara worked feverishly for three days, crafting a gown so beautiful it blinded the eyes. She planned to show it to the King. However, as she finished the last stitch, the gold turned into dry straw. The gown became heavy and ugly. Confused and crying, Elara remembered the spider's warning.</p><p>Just then, an old, shivering woman passed by her window. Elara felt a sudden pang of guilt. She took the straw gown, which was still warm, and wrapped it around the woman’s shoulders. The moment the fabric touched the beggar, it transformed back into radiant gold, warming the woman instantly. Elara finally understood that the magic of the thread was not in its color, but in the kindness of the weaver’s heart.</p>",
+    "q": "Which word best describes Elara’s character development?",
+    "options": [
+      "From being lazy to becoming hardworking",
+      "From being selfish to becoming compassionate",
+      "From being fearful to becoming brave",
+      "From being wealthy to becoming a beggar",
+      "From being a weaver to becoming a queen"
+    ],
+    "key": "B",
+    "correct": [
+      1
+    ]
+  },
+  {
+    "num": 35,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Narrative",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
+    "sub_comp": "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral.",
+    "text": "<h3 style='text-align: center;'>The Weaver and the Golden Thread</h3><p>In a small village tucked between two purple mountains, there lived a young weaver named Elara. Elara was known for her steady hands and her ability to create the softest blankets in the land. However, she was never satisfied. She dreamed of weaving a fabric that could capture the light of the moon.</p><p>One evening, while she was working late, a tiny spider with silver legs crawled onto her loom. Instead of brushing it away, Elara watched as the spider spun a web that shimmered like diamonds. \"If only I had thread as bright as your silk,\" Elara sighed. To her surprise, the spider spoke in a voice like clicking needles. \"I will give you a spool of golden thread,\" the spider said, \"but you must promise to weave a garment for someone who has nothing, rather than selling it for gold.\" Elara greedily agreed, thinking only of the fame such a dress would bring her.</p><p>The next morning, a spool of glowing thread appeared. Elara worked feverishly for three days, crafting a gown so beautiful it blinded the eyes. She planned to show it to the King. However, as she finished the last stitch, the gold turned into dry straw. The gown became heavy and ugly. Confused and crying, Elara remembered the spider's warning.</p><p>Just then, an old, shivering woman passed by her window. Elara felt a sudden pang of guilt. She took the straw gown, which was still warm, and wrapped it around the woman’s shoulders. The moment the fabric touched the beggar, it transformed back into radiant gold, warming the woman instantly. Elara finally understood that the magic of the thread was not in its color, but in the kindness of the weaver’s heart.</p>",
+    "q": "What is the main moral of the story?",
+    "options": [
+      "Spiders are helpful creatures that should be protected.",
+      "Beautiful clothes are more important than food.",
+      "Promises are meant to be broken if the reward is gold.",
+      "True beauty and magic come from selfless kindness.",
+      "Hard work always leads to physical riches."
+    ],
+    "key": "D",
+    "correct": [
+      3
+    ]
+  },
+  {
+    "num": 36,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Narrative",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Secret of the Whispering Woods</h3><p>Leo was not an adventurous boy, but when his younger sister, Mia, disappeared into the Whispering Woods, he had no choice but to follow. The woods were famous for their strange echoes and trees that seemed to move when no one was looking. Armed only with a dim flashlight and a wooden stick, Leo stepped onto the mossy path.</p><p>The air grew cold, and the sound of his own footsteps seemed to repeat three times in the distance. \"Mia!\" he shouted, but the forest only whispered back, \"Mia... mia... ia...\" Suddenly, Leo noticed a trail of blue flower petals on the ground. He remembered that Mia had been wearing a crown of those exact flowers earlier that day.</p><p>He followed the trail deeper into the heart of the forest, where the trees grew so close together that the moonlight could barely reach the floor. He eventually reached a clearing where a massive, ancient oak tree stood. Its bark was covered in glowing symbols. To his relief, he saw Mia sitting at the base of the tree. She wasn't crying; instead, she was talking to a small, glowing fox. The fox looked at Leo with intelligent eyes and then vanished into the shadows.</p><p>Mia stood up and hugged her brother. \"I followed the fox, Leo! He showed me the way to the heart of the woods,\" she explained excitedly. Leo realized the forest wasn't trying to scare them; it was protecting a secret world. As they walked back together, the trees seemed to lean back to clear a path for them, and the whispers turned into a soft, melodic hum that guided them safely home.</p>",
+    "q": "What items or clues helped Leo find his sister in the woods? (Select all that apply)",
+    "options": [
+      "A trail of blue flower petals",
+      "A map he found in his backyard",
+      "The sound of Mia's constant crying",
+      "A dim flashlight he brought with him",
+      "The glowing symbols on the ancient oak tree"
+    ],
+    "key": "A, D, E",
+    "correct": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "num": 37,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Narrative",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
+    "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
+    "text": "<h3 style='text-align: center;'>The Secret of the Whispering Woods</h3><p>Leo was not an adventurous boy, but when his younger sister, Mia, disappeared into the Whispering Woods, he had no choice but to follow. The woods were famous for their strange echoes and trees that seemed to move when no one was looking. Armed only with a dim flashlight and a wooden stick, Leo stepped onto the mossy path.</p><p>The air grew cold, and the sound of his own footsteps seemed to repeat three times in the distance. \"Mia!\" he shouted, but the forest only whispered back, \"Mia... mia... ia...\" Suddenly, Leo noticed a trail of blue flower petals on the ground. He remembered that Mia had been wearing a crown of those exact flowers earlier that day.</p><p>He followed the trail deeper into the heart of the forest, where the trees grew so close together that the moonlight could barely reach the floor. He eventually reached a clearing where a massive, ancient oak tree stood. Its bark was covered in glowing symbols. To his relief, he saw Mia sitting at the base of the tree. She wasn't crying; instead, she was talking to a small, glowing fox. The fox looked at Leo with intelligent eyes and then vanished into the shadows.</p><p>Mia stood up and hugged her brother. \"I followed the fox, Leo! He showed me the way to the heart of the woods,\" she explained excitedly. Leo realized the forest wasn't trying to scare them; it was protecting a secret world. As they walked back together, the trees seemed to lean back to clear a path for them, and the whispers turned into a soft, melodic hum that guided them safely home.</p>",
+    "q": "How does the author describe the atmosphere of the Whispering Woods? (Select all that apply)",
+    "options": [
+      "A sunny and bright playground for children",
+      "A place where echoes repeat strangely",
+      "An area where trees appear to move on their own",
+      "A noisy forest filled with loud wild animals",
+      "A warm and tropical environment"
+    ],
+    "key": "B, C",
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "num": 38,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Narrative",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Secret of the Whispering Woods</h3><p>Leo was not an adventurous boy, but when his younger sister, Mia, disappeared into the Whispering Woods, he had no choice but to follow. The woods were famous for their strange echoes and trees that seemed to move when no one was looking. Armed only with a dim flashlight and a wooden stick, Leo stepped onto the mossy path.</p><p>The air grew cold, and the sound of his own footsteps seemed to repeat three times in the distance. \"Mia!\" he shouted, but the forest only whispered back, \"Mia... mia... ia...\" Suddenly, Leo noticed a trail of blue flower petals on the ground. He remembered that Mia had been wearing a crown of those exact flowers earlier that day.</p><p>He followed the trail deeper into the heart of the forest, where the trees grew so close together that the moonlight could barely reach the floor. He eventually reached a clearing where a massive, ancient oak tree stood. Its bark was covered in glowing symbols. To his relief, he saw Mia sitting at the base of the tree. She wasn't crying; instead, she was talking to a small, glowing fox. The fox looked at Leo with intelligent eyes and then vanished into the shadows.</p><p>Mia stood up and hugged her brother. \"I followed the fox, Leo! He showed me the way to the heart of the woods,\" she explained excitedly. Leo realized the forest wasn't trying to scare them; it was protecting a secret world. As they walked back together, the trees seemed to lean back to clear a path for them, and the whispers turned into a soft, melodic hum that guided them safely home.</p>",
+    "q": "Which characters appear in the clearing of the woods? (Select all that apply)",
+    "options": [
+      "Leo's sister, Mia",
+      "A small, glowing fox",
+      "A group of angry villagers",
+      "The King of the forest",
+      "An ancient woodcutter"
+    ],
+    "key": "A, B",
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "num": 39,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Narrative",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
+    "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
+    "text": "<h3 style='text-align: center;'>The Secret of the Whispering Woods</h3><p>Leo was not an adventurous boy, but when his younger sister, Mia, disappeared into the Whispering Woods, he had no choice but to follow. The woods were famous for their strange echoes and trees that seemed to move when no one was looking. Armed only with a dim flashlight and a wooden stick, Leo stepped onto the mossy path.</p><p>The air grew cold, and the sound of his own footsteps seemed to repeat three times in the distance. \"Mia!\" he shouted, but the forest only whispered back, \"Mia... mia... ia...\" Suddenly, Leo noticed a trail of blue flower petals on the ground. He remembered that Mia had been wearing a crown of those exact flowers earlier that day.</p><p>He followed the trail deeper into the heart of the forest, where the trees grew so close together that the moonlight could barely reach the floor. He eventually reached a clearing where a massive, ancient oak tree stood. Its bark was covered in glowing symbols. To his relief, he saw Mia sitting at the base of the tree. She wasn't crying; instead, she was talking to a small, glowing fox. The fox looked at Leo with intelligent eyes and then vanished into the shadows.</p><p>Mia stood up and hugged her brother. \"I followed the fox, Leo! He showed me the way to the heart of the woods,\" she explained excitedly. Leo realized the forest wasn't trying to scare them; it was protecting a secret world. As they walked back together, the trees seemed to lean back to clear a path for them, and the whispers turned into a soft, melodic hum that guided them safely home.</p>",
+    "q": "What can be concluded about the forest at the end of the story? (Select all that apply)",
+    "options": [
+      "The forest is a dangerous place that wants to hurt children.",
+      "The forest has no magical properties at all.",
+      "The forest seems to have its own consciousness or will.",
+      "The forest acted in a helpful way toward the siblings.",
+      "The forest is home to mysterious, magical creatures."
+    ],
+    "key": "C, D, E",
+    "correct": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "num": 40,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Narrative",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
+    "sub_comp": "Menyimpulkan urutan kejadian: mampu memperkirakan isi selanjutnya dari teks.",
+    "text": "<h3 style='text-align: center;'>The Secret of the Whispering Woods</h3><p>Leo was not an adventurous boy, but when his younger sister, Mia, disappeared into the Whispering Woods, he had no choice but to follow. The woods were famous for their strange echoes and trees that seemed to move when no one was looking. Armed only with a dim flashlight and a wooden stick, Leo stepped onto the mossy path.</p><p>The air grew cold, and the sound of his own footsteps seemed to repeat three times in the distance. \"Mia!\" he shouted, but the forest only whispered back, \"Mia... mia... ia...\" Suddenly, Leo noticed a trail of blue flower petals on the ground. He remembered that Mia had been wearing a crown of those exact flowers earlier that day.</p><p>He followed the trail deeper into the heart of the forest, where the trees grew so close together that the moonlight could barely reach the floor. He eventually reached a clearing where a massive, ancient oak tree stood. Its bark was covered in glowing symbols. To his relief, he saw Mia sitting at the base of the tree. She wasn't crying; instead, she was talking to a small, glowing fox. The fox looked at Leo with intelligent eyes and then vanished into the shadows.</p><p>Mia stood up and hugged her brother. \"I followed the fox, Leo! He showed me the way to the heart of the woods,\" she explained excitedly. Leo realized the forest wasn't trying to scare them; it was protecting a secret world. As they walked back together, the trees seemed to lean back to clear a path for them, and the whispers turned into a soft, melodic hum that guided them safely home.</p>",
+    "q": "Which of the following events occur in the 'Resolution' of this story? (Select all that apply)",
+    "options": [
+      "Leo decides to stay in the woods forever.",
+      "The siblings walk back home safely.",
+      "The whispers in the forest turn into a melodic hum.",
+      "Leo fights the glowing fox to save Mia.",
+      "Mia gets lost for a second time."
+    ],
+    "key": "B, C",
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "num": 41,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Narrative",
+    "columns": [
+      "Fact",
+      "Opinion"
+    ],
+    "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis.",
+    "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya.",
+    "text": "<h3 style='text-align: center;'>The Clockmaker’s Daughter</h3><p>In the clock-tower city of Oakhaven, time was the most valuable thing. Every citizen was given a small silver watch at birth that showed how much time they had to complete their life's work. Clara, the daughter of the Master Clockmaker, was different. Her watch didn't tick; it stayed perfectly still at twelve o'clock. Because of this, many people in the city thought she was cursed or broken.</p><p>Clara spent her days in her father’s workshop, surrounded by cogs, springs, and the smell of oil. One day, the Great City Clock—the machine that powered all the watches in Oakhaven—suddenly stopped. The city fell into a panic. People froze in place, and the sky turned a dull grey. Only Clara could still move, because her time had never been tied to the Great Clock. She realized that the \"curse\" was actually a gift.</p><p>She climbed the highest tower and looked into the giant gears of the Great Clock. She found that a small bird had built a nest inside the main spring, stopping the mechanism. Clara gently moved the nest to a safe window ledge and used her own \"still\" watch to jump-start the gears. As she touched the main wheel, her watch finally began to tick. The city roared back to life, and the sky turned blue again.</p><p>The people realized that being \"different\" didn't mean being \"broken.\" Clara wasn't a girl with no time; she was the girl who held time in her hands.</p>",
+    "q": "Categorize each statement based on the text into Fact or Opinion.",
+    "items": [
+      "Every citizen in Oakhaven receives a silver watch.",
+      "Clara is the most talented girl in the city.",
+      "The Great City Clock stopped because of a bird's nest.",
+      "Clara is the daughter of the Master Clockmaker."
+    ],
+    "key": "1-Fact, 2-Opinion, 3-Fact, 4-Fact",
+    "correct": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "num": 42,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Narrative",
+    "columns": [
+      "True",
+      "False"
+    ],
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Clockmaker’s Daughter</h3><p>In the clock-tower city of Oakhaven, time was the most valuable thing. Every citizen was given a small silver watch at birth that showed how much time they had to complete their life's work. Clara, the daughter of the Master Clockmaker, was different. Her watch didn't tick; it stayed perfectly still at twelve o'clock. Because of this, many people in the city thought she was cursed or broken.</p><p>Clara spent her days in her father’s workshop, surrounded by cogs, springs, and the smell of oil. One day, the Great City Clock—the machine that powered all the watches in Oakhaven—suddenly stopped. The city fell into a panic. People froze in place, and the sky turned a dull grey. Only Clara could still move, because her time had never been tied to the Great Clock. She realized that the \"curse\" was actually a gift.</p><p>She climbed the highest tower and looked into the giant gears of the Great Clock. She found that a small bird had built a nest inside the main spring, stopping the mechanism. Clara gently moved the nest to a safe window ledge and used her own \"still\" watch to jump-start the gears. As she touched the main wheel, her watch finally began to tick. The city roared back to life, and the sky turned blue again.</p><p>The people realized that being \"different\" didn't mean being \"broken.\" Clara wasn't a girl with no time; she was the girl who held time in her hands.</p>",
+    "q": "Determine if the following statements are True or False based on the story.",
+    "items": [
+      "Clara was able to move when the Great Clock stopped.",
+      "Clara destroyed the bird's nest to fix the clock.",
+      "The city people originally thought Clara was cursed.",
+      "Clara’s watch started ticking at the beginning of the story."
+    ],
+    "key": "1-True, 2-False, 3-True, 4-False",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 43,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Narrative",
+    "columns": [
+      "Yes",
+      "No"
+    ],
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
+    "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Clockmaker’s Daughter</h3><p>In the clock-tower city of Oakhaven, time was the most valuable thing. Every citizen was given a small silver watch at birth that showed how much time they had to complete their life's work. Clara, the daughter of the Master Clockmaker, was different. Her watch didn't tick; it stayed perfectly still at twelve o'clock. Because of this, many people in the city thought she was cursed or broken.</p><p>Clara spent her days in her father’s workshop, surrounded by cogs, springs, and the smell of oil. One day, the Great City Clock—the machine that powered all the watches in Oakhaven—suddenly stopped. The city fell into a panic. People froze in place, and the sky turned a dull grey. Only Clara could still move, because her time had never been tied to the Great Clock. She realized that the \"curse\" was actually a gift.</p><p>She climbed the highest tower and looked into the giant gears of the Great Clock. She found that a small bird had built a nest inside the main spring, stopping the mechanism. Clara gently moved the nest to a safe window ledge and used her own \"still\" watch to jump-start the gears. As she touched the main wheel, her watch finally began to tick. The city roared back to life, and the sky turned blue again.</p><p>The people realized that being \"different\" didn't mean being \"broken.\" Clara wasn't a girl with no time; she was the girl who held time in her hands.</p>",
+    "q": "Are these the correct 'Causes' for the 'Effects' listed? Choose Yes or No.",
+    "items": [
+      "The bird's nest in the gears -> The Great Clock stopped.",
+      "Clara was cursed -> She fixed the clock with a hammer.",
+      "Clara’s watch was still -> She could move while others froze.",
+      "The sky turned grey -> Because Clara forgot to oil the gears."
+    ],
+    "key": "1-Yes, 2-No, 3-Yes, 4-No",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 44,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Narrative",
+    "columns": [
+      "Correct",
+      "Incorrect"
+    ],
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
+    "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
+    "text": "<h3 style='text-align: center;'>The Clockmaker’s Daughter</h3><p>In the clock-tower city of Oakhaven, time was the most valuable thing. Every citizen was given a small silver watch at birth that showed how much time they had to complete their life's work. Clara, the daughter of the Master Clockmaker, was different. Her watch didn't tick; it stayed perfectly still at twelve o'clock. Because of this, many people in the city thought she was cursed or broken.</p><p>Clara spent her days in her father’s workshop, surrounded by cogs, springs, and the smell of oil. One day, the Great City Clock—the machine that powered all the watches in Oakhaven—suddenly stopped. The city fell into a panic. People froze in place, and the sky turned a dull grey. Only Clara could still move, because her time had never been tied to the Great Clock. She realized that the \"curse\" was actually a gift.</p><p>She climbed the highest tower and looked into the giant gears of the Great Clock. She found that a small bird had built a nest inside the main spring, stopping the mechanism. Clara gently moved the nest to a safe window ledge and used her own \"still\" watch to jump-start the gears. As she touched the main wheel, her watch finally began to tick. The city roared back to life, and the sky turned blue again.</p><p>The people realized that being \"different\" didn't mean being \"broken.\" Clara wasn't a girl with no time; she was the girl who held time in her hands.</p>",
+    "q": "Match the setting/element to its description. Are these Correct or Incorrect?",
+    "items": [
+      "Oakhaven: A city filled with clock towers.",
+      "Workshop: Smells like fresh flowers and baking bread.",
+      "Silver Watch: Shows a person's life-work time.",
+      "Twelve o'clock: The time when the Great Clock always starts."
+    ],
+    "key": "1-Correct, 2-Incorrect, 3-Correct, 4-Incorrect",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 45,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Narrative",
+    "columns": [
+      "Narrative",
+      "Not Narrative"
+    ],
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
+    "sub_comp": "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral.",
+    "text": "<h3 style='text-align: center;'>The Clockmaker’s Daughter</h3><p>In the clock-tower city of Oakhaven, time was the most valuable thing. Every citizen was given a small silver watch at birth that showed how much time they had to complete their life's work. Clara, the daughter of the Master Clockmaker, was different. Her watch didn't tick; it stayed perfectly still at twelve o'clock. Because of this, many people in the city thought she was cursed or broken.</p><p>Clara spent her days in her father’s workshop, surrounded by cogs, springs, and the smell of oil. One day, the Great City Clock—the machine that powered all the watches in Oakhaven—suddenly stopped. The city fell into a panic. People froze in place, and the sky turned a dull grey. Only Clara could still move, because her time had never been tied to the Great Clock. She realized that the \"curse\" was actually a gift.</p><p>She climbed the highest tower and looked into the giant gears of the Great Clock. She found that a small bird had built a nest inside the main spring, stopping the mechanism. Clara gently moved the nest to a safe window ledge and used her own \"still\" watch to jump-start the gears. As she touched the main wheel, her watch finally began to tick. The city roared back to life, and the sky turned blue again.</p><p>The people realized that being \"different\" didn't mean being \"broken.\" Clara wasn't a girl with no time; she was the girl who held time in her hands.</p>",
+    "q": "Identify which phrases represent Narrative elements (Complication/Resolution) found in the text.",
+    "items": [
+      "The Great City Clock suddenly stopped working.",
+      "How to repair a real silver watch in five steps.",
+      "Clara used her watch to jump-start the gears.",
+      "The history of Oakhaven's tax system."
+    ],
+    "key": "1-Narrative, 2-Not Narrative, 3-Narrative, 4-Not Narrative",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 46,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Procedure",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<img src='assets/images/reading1.jpg' style='max-width: 100%;'>",
+    "q": "Which of the following items is explicitly listed in the \"Materials\" section as necessary for monitoring the chemical balance of the water?",
+    "options": [
+      "High-pressure water pump",
+      "Mechanical aerators",
+      "Agricultural lime (CaCO3)",
+      "Ammonia reagent kit",
+      "Shading materials (UV nets)"
+    ],
+    "key": "D",
+    "correct": [
+      3
+    ]
+  },
+  {
+    "num": 47,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Procedure",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Mengklasifikasi: mampu mengelompokkan orang, benda, tempat, atau peristiwa dalam teks berdasarkan kategori tertentu.",
+    "text": "<img src='assets/images/reading1.jpg' style='max-width: 100%;'>",
+    "q": "Based on the instructions, which equipment should be categorized as a tool for \"Gas and Temperature Management\"?",
+    "options": [
+      "Digital pH and DO sensors",
+      "Mechanical aerators and UV nets",
+      "Water sampling containers",
+      "Dedicated logbooks and pens",
+      "Ammonia reagent kits and lime"
+    ],
+    "key": "B",
+    "correct": [
+      1
+    ]
+  },
+  {
+    "num": 48,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Procedure",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
+    "text": "<img src='assets/images/reading1.jpg' style='max-width: 100%;'>",
+    "q": "What is the most likely reason the procedure suggests installing shading materials or UV nets over the pond?",
+    "options": [
+      "To prevent rapid temperature fluctuations caused by direct sunlight.",
+      "To stop fish from jumping out of the water during the day.",
+      "To prevent the water from becoming too clear for digital sensors.",
+      "To increase the concentration of ammonia in the lower water layers.",
+      "To protect the mechanical aerators from rusting due to rain."
+    ],
+    "key": "A",
+    "correct": [
+      0
+    ]
+  },
+  {
+    "num": 49,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Procedure",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
+    "text": "<img src='assets/images/reading1.jpg' style='max-width: 100%;'>",
+    "q": "In Step 4, the text recommends applying agricultural lime (CaCO3) if the pH drops below 6.5. What does this suggest about the role of lime in aquaculture?",
+    "options": [
+      "It acts as a primary food source for fish in acidic water.",
+      "It is used to decrease the amount of dissolved oxygen.",
+      "It serves as a cleaning agent to clear the water's turbidity.",
+      "It helps to cool down the water temperature in tropical climates.",
+      "It serves as a buffering agent to neutralize acidity and stabilize pH."
+    ],
+    "key": "E",
+    "correct": [
+      4
+    ]
+  },
+  {
+    "num": 50,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Procedure",
+    "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
+    "sub_comp": "Menilai kecukupan dan validitas informasi: Menilai kesesuaian, kelengkapan, keakuratan informasi dalam teks (dengan membandingkannya dengan sumber lain).",
+    "text": "<img src='assets/images/reading1.jpg' style='max-width: 100%;'>",
+    "q": "Looking at the \"Daily Monitoring\" steps (Step 1 and 2), which aspect of information validity is emphasized to ensure the data is useful for long-term management?",
+    "options": [
+      "The speed at which the sensors can display results.",
+      "The brand or manufacturer of the digital sensors used.",
+      "The consistency of recording findings in a dedicated logbook.",
+      "The color of the pen used to write in the monitoring journal.",
+      "The aesthetic appearance of the water sampling containers."
+    ],
+    "key": "C",
+    "correct": [
+      2
+    ]
+  },
+  {
+    "num": 51,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Procedure",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<img src='assets/images/reading2.jpg' style='max-width: 100%;'>",
+    "q": "According to the \"Materials\" section, which specific tools are recommended for cleaning the solar panels? (Select all that apply)",
+    "options": [
+      "High-pressure power washer",
+      "Soft-bristled brush or leaf blower",
+      "Industrial-strength chemical bleach",
+      "Non-abrasive sponge or solar brush",
+      "Deionized water and mild soap"
+    ],
+    "key": "B, D, E",
+    "correct": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "num": 52,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Procedure",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Mengklasifikasi: mampu mengelompokkan orang, benda, tempat, atau peristiwa dalam teks berdasarkan kategori tertentu.",
+    "text": "<img src='assets/images/reading2.jpg' style='max-width: 100%;'>",
+    "q": "In Step 3 regarding \"Safe Maintenance Protocols,\" which items are categorized as required Personal Protective Equipment (PPE)? (Select all that apply)",
+    "options": [
+      "Safety goggles",
+      "Monitoring software",
+      "Heat-resistant gloves",
+      "DC isolator switches",
+      "Binoculars"
+    ],
+    "key": "A, C",
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "num": 53,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Procedure",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
+    "text": "<img src='assets/images/reading2.jpg' style='max-width: 100%;'>",
+    "q": "Based on Step 1 and Step 4, what are the likely consequences of failing to perform a \"System Health Check\" or using improper tools? (Select all that apply)",
+    "options": [
+      "The panels will automatically stop producing energy during cleaning.",
+      "Using standard metal tools could trigger short-circuits or workshop fires.",
+      "Improper handling of terminals could lead to unexpected electrical discharges.",
+      "The DC isolator switch will automatically turn off the solar panels.",
+      "The monitoring software will delete all historical performance data."
+    ],
+    "key": "B, C",
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "num": 54,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Procedure",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
+    "text": "<img src='assets/images/reading2.jpg' style='max-width: 100%;'>",
+    "q": "The text mentions \"Optimized Performance Monitoring\" in Step 2. Which statements support the importance of this step? (Select all that apply)",
+    "options": [
+      "It allows for the tracking of real-time energy output via software.",
+      "It ensures the soft-bristled brush stays clean for the next use.",
+      "It provides a physical barrier against bird droppings and dust.",
+      "It helps identify performance drops early to prevent system failure.",
+      "It enables the comparison of historical data with current efficiency."
+    ],
+    "key": "A, D, E",
+    "correct": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "num": 55,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Procedure",
+    "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
+    "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya berdasarkan bukti atau sekadar berusaha mempengaruhi pembaca.",
+    "text": "<img src='assets/images/reading2.jpg' style='max-width: 100%;'>",
+    "q": "Which of the following statements can be assessed as facts directly supported by the provided procedure? (Select all that apply)",
+    "options": [
+      "Panels should be cleaned with a low-pressure hose or deionized water.",
+      "Isolating the system using AC/DC switches is a safety requirement before maintenance.",
+      "Solar energy is the most reliable source of power for all modern homes.",
+      "Cleaning solar panels is the most difficult task in renewable energy management.",
+      "Monitoring software is significantly more expensive than physical cleaning tools."
+    ],
+    "key": "A, B",
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "num": 56,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Procedure",
+    "columns": [
+      "Required",
+      "Not Required"
+    ],
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<img src='assets/images/reading3.jpg' style='max-width: 100%;'>",
+    "q": "Based on the \"Materials\" list and the \"Steps,\" categorize the following items as Required or Not Required for this specific safety procedure.",
+    "items": [
+      "Adhesive tape or terminal covers",
+      "Standard metal screwdrivers",
+      "Heat-resistant gloves",
+      "Distilled or deionized water"
+    ],
+    "key": "1-Required, 2-Not Required, 3-Required, 4-Not Required",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 57,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Procedure",
+    "columns": [
+      "True",
+      "False"
+    ],
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<img src='assets/images/reading3.jpg' style='max-width: 100%;'>",
+    "q": "Determine whether the following statements regarding battery handling are True or False according to the text.",
+    "items": [
+      "A swollen battery should never be charged or opened.",
+      "Batteries should be stored at 100% charge for maximum longevity.",
+      "Sand acts as a thermal buffer to stop fire from spreading.",
+      "Old batteries should be discarded in regular household waste."
+    ],
+    "key": "1-True, 2-False, 3-True, 4-False",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 58,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Procedure",
+    "columns": [
+      "Safe",
+      "Dangerous"
+    ],
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
+    "text": "<img src='assets/images/reading3.jpg' style='max-width: 100%;'>",
+    "q": "Categorize the following actions as Safe or Dangerous based on the instructions provided in the steps.",
+    "items": [
+      "Keeping unused batteries in a cool environment.",
+      "Using uninsulated metal tools near battery cells.",
+      "Covering terminals when batteries are removed.",
+      "Attempting to charge a battery that shows discoloration."
+    ],
+    "key": "1-Safe, 2-Dangerous, 3-Safe, 4-Dangerous",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 59,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Procedure",
+    "columns": [
+      "Fact",
+      "Opinion"
+    ],
+    "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
+    "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya berdasarkan bukti atau sekadar berusaha mempengaruhi pembaca.",
+    "text": "<img src='assets/images/reading3.jpg' style='max-width: 100%;'>",
+    "q": "Categorize the following statements as either a Fact stated in the text or an Opinion not explicitly supported by the text.",
+    "items": [
+      "Step 7 requires batteries to be taken to a certified collection point.",
+      "Insulated tools prevent short-circuits in the workshop.",
+      "Lithium-ion batteries are the best energy source available today.",
+      "Every household must own a dedicated sand-filled container."
+    ],
+    "key": "1-Fact, 2-Fact, 3-Opinion, 4-Opinion",
+    "correct": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "num": 60,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Procedure",
+    "columns": [
+      "Early Stage",
+      "Late Stage"
+    ],
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan urutan kejadian: mampu memperkirakan isi selanjutnya dari teks.",
+    "text": "<img src='assets/images/reading3.jpg' style='max-width: 100%;'>",
+    "q": "Categorize these steps based on their sequence in the procedure. Mark them as Early Stage (Steps 1–3) or Late Stage (Steps 5–7).",
+    "items": [
+      "Conducting a preliminary physical inspection.",
+      "Transporting batteries to a hazardous waste point.",
+      "Putting on heat-resistant gloves and goggles.",
+      "Taping terminals to prevent conductive contact."
+    ],
+    "key": "1-Early Stage, 2-Late Stage, 3-Early Stage, 4-Late Stage",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 61,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Analytical Exposition",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral.",
+    "text": "<h3 style='text-align: center;'>The Critical Importance of Adolescent Sleep</h3><p>Quality sleep is often overlooked in the busy lives of teenagers, yet it is a fundamental pillar of health and development. While many adolescents view staying up late as a rite of passage or a necessity for studying, research consistently shows that sleep deprivation can have severe consequences. It is essential that both parents and educators prioritize sleep hygiene for the younger generation.</p><p>Firstly, sleep is vital for brain development and academic performance. During deep sleep, the brain processes the information gathered throughout the day, consolidating memories and strengthening neural connections. A sleep-deprived student often struggles with concentration, problem-solving, and creativity. Consequently, students who maintain a consistent sleep schedule of 8 to 10 hours tend to perform significantly better in examinations compared to those who sacrifice sleep for \"cramming.\"</p><p>Secondly, sleep plays a crucial role in emotional regulation. Adolescence is already a period of significant hormonal changes and emotional volatility. Lack of sleep exacerbates these issues, leading to increased irritability, anxiety, and even depression. A well-rested teenager is better equipped to handle social pressures and daily stressors with a balanced perspective.</p><p>Furthermore, physical health is directly linked to sleep duration. During sleep, the body releases growth hormones and repairs tissues. It also strengthens the immune system, making the body more resilient against common illnesses. Chronic sleep loss in teenagers has been linked to long-term health risks, including obesity and cardiovascular problems.</p><p>In conclusion, sleep is not a luxury but a biological necessity. By understanding the academic, emotional, and physical benefits of rest, society must work together to ensure that teenagers are given the time and environment they need to sleep adequately.</p>",
+    "q": "What is the primary purpose of the text?",
+    "options": [
+      "To describe the different stages of the human sleep cycle.",
+      "To criticize schools for giving students too much homework.",
+      "To persuade the reader that teenagers need sufficient sleep for their overall well-being.",
+      "To explain the biological chemical reactions that occur during dreaming.",
+      "To compare the sleep habits of teenagers in the past with those of today."
+    ],
+    "key": "C",
+    "correct": [
+      2
+    ]
+  },
+  {
+    "num": 62,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Analytical Exposition",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Critical Importance of Adolescent Sleep</h3><p>Quality sleep is often overlooked in the busy lives of teenagers, yet it is a fundamental pillar of health and development. While many adolescents view staying up late as a rite of passage or a necessity for studying, research consistently shows that sleep deprivation can have severe consequences. It is essential that both parents and educators prioritize sleep hygiene for the younger generation.</p><p>Firstly, sleep is vital for brain development and academic performance. During deep sleep, the brain processes the information gathered throughout the day, consolidating memories and strengthening neural connections. A sleep-deprived student often struggles with concentration, problem-solving, and creativity. Consequently, students who maintain a consistent sleep schedule of 8 to 10 hours tend to perform significantly better in examinations compared to those who sacrifice sleep for \"cramming.\"</p><p>Secondly, sleep plays a crucial role in emotional regulation. Adolescence is already a period of significant hormonal changes and emotional volatility. Lack of sleep exacerbates these issues, leading to increased irritability, anxiety, and even depression. A well-rested teenager is better equipped to handle social pressures and daily stressors with a balanced perspective.</p><p>Furthermore, physical health is directly linked to sleep duration. During sleep, the body releases growth hormones and repairs tissues. It also strengthens the immune system, making the body more resilient against common illnesses. Chronic sleep loss in teenagers has been linked to long-term health risks, including obesity and cardiovascular problems.</p><p>In conclusion, sleep is not a luxury but a biological necessity. By understanding the academic, emotional, and physical benefits of rest, society must work together to ensure that teenagers are given the time and environment they need to sleep adequately.</p>",
+    "q": "According to the second paragraph, how does the brain benefit from deep sleep?",
+    "options": [
+      "It allows the body to release growth hormones.",
+      "It processes information and strengthens neural connections.",
+      "It helps the student avoid social pressures at school.",
+      "It increases the physical speed of neural signals during exams.",
+      "It reduces the need for the immune system to fight illnesses."
+    ],
+    "key": "B",
+    "correct": [
+      1
+    ]
+  },
+  {
+    "num": 63,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Analytical Exposition",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Meringkas: mampu menyajikan kembali isi teks secara ringkas dengan mengutip bagian penting.",
+    "text": "<h3 style='text-align: center;'>The Critical Importance of Adolescent Sleep</h3><p>Quality sleep is often overlooked in the busy lives of teenagers, yet it is a fundamental pillar of health and development. While many adolescents view staying up late as a rite of passage or a necessity for studying, research consistently shows that sleep deprivation can have severe consequences. It is essential that both parents and educators prioritize sleep hygiene for the younger generation.</p><p>Firstly, sleep is vital for brain development and academic performance. During deep sleep, the brain processes the information gathered throughout the day, consolidating memories and strengthening neural connections. A sleep-deprived student often struggles with concentration, problem-solving, and creativity. Consequently, students who maintain a consistent sleep schedule of 8 to 10 hours tend to perform significantly better in examinations compared to those who sacrifice sleep for \"cramming.\"</p><p>Secondly, sleep plays a crucial role in emotional regulation. Adolescence is already a period of significant hormonal changes and emotional volatility. Lack of sleep exacerbates these issues, leading to increased irritability, anxiety, and even depression. A well-rested teenager is better equipped to handle social pressures and daily stressors with a balanced perspective.</p><p>Furthermore, physical health is directly linked to sleep duration. During sleep, the body releases growth hormones and repairs tissues. It also strengthens the immune system, making the body more resilient against common illnesses. Chronic sleep loss in teenagers has been linked to long-term health risks, including obesity and cardiovascular problems.</p><p>In conclusion, sleep is not a luxury but a biological necessity. By understanding the academic, emotional, and physical benefits of rest, society must work together to ensure that teenagers are given the time and environment they need to sleep adequately.</p>",
+    "q": "Based on the text, what is the likely result of a teenager being consistently sleep-deprived?",
+    "options": [
+      "They will become more creative in their problem-solving.",
+      "They will experience faster physical growth and tissue repair.",
+      "They will find it easier to consolidate memories from their studies.",
+      "Their immune system will become much stronger against common illnesses.",
+      "They are more likely to experience increased anxiety and irritability."
+    ],
+    "key": "E",
+    "correct": [
+      4
+    ]
+  },
+  {
+    "num": 64,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Analytical Exposition",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral.",
+    "text": "<h3 style='text-align: center;'>The Critical Importance of Adolescent Sleep</h3><p>Quality sleep is often overlooked in the busy lives of teenagers, yet it is a fundamental pillar of health and development. While many adolescents view staying up late as a rite of passage or a necessity for studying, research consistently shows that sleep deprivation can have severe consequences. It is essential that both parents and educators prioritize sleep hygiene for the younger generation.</p><p>Firstly, sleep is vital for brain development and academic performance. During deep sleep, the brain processes the information gathered throughout the day, consolidating memories and strengthening neural connections. A sleep-deprived student often struggles with concentration, problem-solving, and creativity. Consequently, students who maintain a consistent sleep schedule of 8 to 10 hours tend to perform significantly better in examinations compared to those who sacrifice sleep for \"cramming.\"</p><p>Secondly, sleep plays a crucial role in emotional regulation. Adolescence is already a period of significant hormonal changes and emotional volatility. Lack of sleep exacerbates these issues, leading to increased irritability, anxiety, and even depression. A well-rested teenager is better equipped to handle social pressures and daily stressors with a balanced perspective.</p><p>Furthermore, physical health is directly linked to sleep duration. During sleep, the body releases growth hormones and repairs tissues. It also strengthens the immune system, making the body more resilient against common illnesses. Chronic sleep loss in teenagers has been linked to long-term health risks, including obesity and cardiovascular problems.</p><p>In conclusion, sleep is not a luxury but a biological necessity. By understanding the academic, emotional, and physical benefits of rest, society must work together to ensure that teenagers are given the time and environment they need to sleep adequately.</p>",
+    "q": "What is the main idea of the fourth paragraph?",
+    "options": [
+      "The physical health benefits and long-term risks associated with adolescent sleep.",
+      "The role of hormones in making teenagers feel hungry during the night.",
+      "The specific types of exercises teenagers should do before going to bed.",
+      "The connection between academic performance and physical growth.",
+      "The history of cardiovascular research in young populations."
+    ],
+    "key": "A",
+    "correct": [
+      0
+    ]
+  },
+  {
+    "num": 65,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Analytical Exposition",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral.",
+    "text": "<h3 style='text-align: center;'>The Critical Importance of Adolescent Sleep</h3><p>Quality sleep is often overlooked in the busy lives of teenagers, yet it is a fundamental pillar of health and development. While many adolescents view staying up late as a rite of passage or a necessity for studying, research consistently shows that sleep deprivation can have severe consequences. It is essential that both parents and educators prioritize sleep hygiene for the younger generation.</p><p>Firstly, sleep is vital for brain development and academic performance. During deep sleep, the brain processes the information gathered throughout the day, consolidating memories and strengthening neural connections. A sleep-deprived student often struggles with concentration, problem-solving, and creativity. Consequently, students who maintain a consistent sleep schedule of 8 to 10 hours tend to perform significantly better in examinations compared to those who sacrifice sleep for \"cramming.\"</p><p>Secondly, sleep plays a crucial role in emotional regulation. Adolescence is already a period of significant hormonal changes and emotional volatility. Lack of sleep exacerbates these issues, leading to increased irritability, anxiety, and even depression. A well-rested teenager is better equipped to handle social pressures and daily stressors with a balanced perspective.</p><p>Furthermore, physical health is directly linked to sleep duration. During sleep, the body releases growth hormones and repairs tissues. It also strengthens the immune system, making the body more resilient against common illnesses. Chronic sleep loss in teenagers has been linked to long-term health risks, including obesity and cardiovascular problems.</p><p>In conclusion, sleep is not a luxury but a biological necessity. By understanding the academic, emotional, and physical benefits of rest, society must work together to ensure that teenagers are given the time and environment they need to sleep adequately.</p>",
+    "q": "How many hours of sleep are recommended for adolescents according to the text?",
+    "options": [
+      "Exactly 12 hours",
+      "Less than 6 hours",
+      "Between 5 and 7 hours",
+      "Between 8 and 10 hours",
+      "More than 11 hours"
+    ],
+    "key": "D",
+    "correct": [
+      3
+    ]
+  },
+  {
+    "num": 66,
+    "type": "MCMA",
+    "bentuk": "PGK MCMA",
+    "jenis": "Analytical Exposition",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Environmental Case for Remote Work</h3><p>The global shift toward remote work, accelerated by recent technological advancements, has proven to be more than just a matter of convenience. Beyond its impact on productivity, remote work offers significant environmental benefits. Transitioning to a \"work-from-home\" model is a strategic move that can contribute to a more sustainable future.</p><p>The most immediate environmental advantage is the reduction in carbon emissions. Daily commuting is a major contributor to air pollution and greenhouse gas emissions. When employees work from home, the number of cars on the road decreases significantly. This reduction in traffic leads to lower fuel consumption and a noticeable improvement in urban air quality. Furthermore, decreasing the demand for public transport and personal vehicles reduces the overall carbon footprint of the workforce.</p><p>In addition to reduced emissions, remote work leads to lower energy consumption in commercial buildings. Large office complexes require vast amounts of electricity for lighting, heating, cooling, and operating electronic equipment. When offices are at lower capacity or closed, the energy demand drops. While home energy use might increase slightly, it rarely matches the intensive energy requirements of maintaining a large-scale corporate facility.</p><p>Moreover, remote work encourages a \"paperless\" culture. In a traditional office setting, the reliance on printed documents is often high. However, remote teams naturally rely on digital tools, cloud-based sharing, and electronic signatures. This shift significantly reduces paper waste and, consequently, the environmental impact of the logging and paper manufacturing industries.</p><p>In conclusion, remote work is a powerful tool for environmental conservation. By reducing emissions, saving energy, and minimizing waste, it aligns corporate interests with global sustainability goals.</p>",
+    "q": "According to the text, what are the consequences of sleep deprivation in students? (Select all that apply)",
+    "options": [
+      "Difficulty with concentration",
+      "Enhanced creativity and problem-solving",
+      "Increased irritability and anxiety",
+      "Better performance in examinations",
+      "Struggles with memory consolidation"
+    ],
+    "key": "A, C, E",
+    "correct": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "num": 67,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Analytical Exposition",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
+    "text": "<h3 style='text-align: center;'>The Environmental Case for Remote Work</h3><p>The global shift toward remote work, accelerated by recent technological advancements, has proven to be more than just a matter of convenience. Beyond its impact on productivity, remote work offers significant environmental benefits. Transitioning to a \"work-from-home\" model is a strategic move that can contribute to a more sustainable future.</p><p>The most immediate environmental advantage is the reduction in carbon emissions. Daily commuting is a major contributor to air pollution and greenhouse gas emissions. When employees work from home, the number of cars on the road decreases significantly. This reduction in traffic leads to lower fuel consumption and a noticeable improvement in urban air quality. Furthermore, decreasing the demand for public transport and personal vehicles reduces the overall carbon footprint of the workforce.</p><p>In addition to reduced emissions, remote work leads to lower energy consumption in commercial buildings. Large office complexes require vast amounts of electricity for lighting, heating, cooling, and operating electronic equipment. When offices are at lower capacity or closed, the energy demand drops. While home energy use might increase slightly, it rarely matches the intensive energy requirements of maintaining a large-scale corporate facility.</p><p>Moreover, remote work encourages a \"paperless\" culture. In a traditional office setting, the reliance on printed documents is often high. However, remote teams naturally rely on digital tools, cloud-based sharing, and electronic signatures. This shift significantly reduces paper waste and, consequently, the environmental impact of the logging and paper manufacturing industries.</p><p>In conclusion, remote work is a powerful tool for environmental conservation. By reducing emissions, saving energy, and minimizing waste, it aligns corporate interests with global sustainability goals.</p>",
+    "q": "What is the central argument presented in the text regarding remote work?",
+    "options": [
+      "Remote work is primarily a tool for increasing company profits.",
+      "Remote work offers a significant opportunity to reduce the global carbon footprint.",
+      "Working from home is only effective for people living in large cities.",
+      "Traditional offices are more environmentally friendly than home offices.",
+      "The main benefit of remote work is the ability to use more digital paper."
+    ],
+    "key": "B",
+    "correct": [
+      1
+    ]
+  },
+  {
+    "num": 68,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Analytical Exposition",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Environmental Case for Remote Work</h3><p>The global shift toward remote work, accelerated by recent technological advancements, has proven to be more than just a matter of convenience. Beyond its impact on productivity, remote work offers significant environmental benefits. Transitioning to a \"work-from-home\" model is a strategic move that can contribute to a more sustainable future.</p><p>The most immediate environmental advantage is the reduction in carbon emissions. Daily commuting is a major contributor to air pollution and greenhouse gas emissions. When employees work from home, the number of cars on the road decreases significantly. This reduction in traffic leads to lower fuel consumption and a noticeable improvement in urban air quality. Furthermore, decreasing the demand for public transport and personal vehicles reduces the overall carbon footprint of the workforce.</p><p>In addition to reduced emissions, remote work leads to lower energy consumption in commercial buildings. Large office complexes require vast amounts of electricity for lighting, heating, cooling, and operating electronic equipment. When offices are at lower capacity or closed, the energy demand drops. While home energy use might increase slightly, it rarely matches the intensive energy requirements of maintaining a large-scale corporate facility.</p><p>Moreover, remote work encourages a \"paperless\" culture. In a traditional office setting, the reliance on printed documents is often high. However, remote teams naturally rely on digital tools, cloud-based sharing, and electronic signatures. This shift significantly reduces paper waste and, consequently, the environmental impact of the logging and paper manufacturing industries.</p><p>In conclusion, remote work is a powerful tool for environmental conservation. By reducing emissions, saving energy, and minimizing waste, it aligns corporate interests with global sustainability goals.</p>",
+    "q": "According to the second paragraph, how does remote work specifically reduce greenhouse gas emissions?",
+    "options": [
+      "By encouraging people to buy electric vehicles.",
+      "By eliminating the daily commute for millions of workers.",
+      "By increasing the number of public transportation routes.",
+      "By reducing the cost of fuel at gas stations.",
+      "By forcing people to stay indoors during the day."
+    ],
+    "key": "B",
+    "correct": [
+      1
+    ]
+  },
+  {
+    "num": 69,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Analytical Exposition",
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral yang tidak secara eksplisit dinyatakan dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Environmental Case for Remote Work</h3><p>The global shift toward remote work, accelerated by recent technological advancements, has proven to be more than just a matter of convenience. Beyond its impact on productivity, remote work offers significant environmental benefits. Transitioning to a \"work-from-home\" model is a strategic move that can contribute to a more sustainable future.</p><p>The most immediate environmental advantage is the reduction in carbon emissions. Daily commuting is a major contributor to air pollution and greenhouse gas emissions. When employees work from home, the number of cars on the road decreases significantly. This reduction in traffic leads to lower fuel consumption and a noticeable improvement in urban air quality. Furthermore, decreasing the demand for public transport and personal vehicles reduces the overall carbon footprint of the workforce.</p><p>In addition to reduced emissions, remote work leads to lower energy consumption in commercial buildings. Large office complexes require vast amounts of electricity for lighting, heating, cooling, and operating electronic equipment. When offices are at lower capacity or closed, the energy demand drops. While home energy use might increase slightly, it rarely matches the intensive energy requirements of maintaining a large-scale corporate facility.</p><p>Moreover, remote work encourages a \"paperless\" culture. In a traditional office setting, the reliance on printed documents is often high. However, remote teams naturally rely on digital tools, cloud-based sharing, and electronic signatures. This shift significantly reduces paper waste and, consequently, the environmental impact of the logging and paper manufacturing industries.</p><p>In conclusion, remote work is a powerful tool for environmental conservation. By reducing emissions, saving energy, and minimizing waste, it aligns corporate interests with global sustainability goals.</p>",
+    "q": "Based on the third paragraph, what is the 'secondary environmental benefit' of reduced office occupancy?",
+    "options": [
+      "Offices can be converted into large indoor parks.",
+      "Building owners can save money on cleaning supplies.",
+      "Lower energy consumption for heating, cooling, and lighting large buildings.",
+      "Workers become more productive when they are not in an office.",
+      "The job market for security guards will increase."
+    ],
+    "key": "C",
+    "correct": [
+      2
+    ]
+  },
+  {
+    "num": 70,
+    "type": "PG",
+    "bentuk": "Pilihan Ganda",
+    "jenis": "Analytical Exposition",
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Meringkas: mampu menyajikan kembali isi teks secara ringkas dengan mengutip bagian penting.",
+    "text": "<h3 style='text-align: center;'>The Environmental Case for Remote Work</h3><p>The global shift toward remote work, accelerated by recent technological advancements, has proven to be more than just a matter of convenience. Beyond its impact on productivity, remote work offers significant environmental benefits. Transitioning to a \"work-from-home\" model is a strategic move that can contribute to a more sustainable future.</p><p>The most immediate environmental advantage is the reduction in carbon emissions. Daily commuting is a major contributor to air pollution and greenhouse gas emissions. When employees work from home, the number of cars on the road decreases significantly. This reduction in traffic leads to lower fuel consumption and a noticeable improvement in urban air quality. Furthermore, decreasing the demand for public transport and personal vehicles reduces the overall carbon footprint of the workforce.</p><p>In addition to reduced emissions, remote work leads to lower energy consumption in commercial buildings. Large office complexes require vast amounts of electricity for lighting, heating, cooling, and operating electronic equipment. When offices are at lower capacity or closed, the energy demand drops. While home energy use might increase slightly, it rarely matches the intensive energy requirements of maintaining a large-scale corporate facility.</p><p>Moreover, remote work encourages a \"paperless\" culture. In a traditional office setting, the reliance on printed documents is often high. However, remote teams naturally rely on digital tools, cloud-based sharing, and electronic signatures. This shift significantly reduces paper waste and, consequently, the environmental impact of the logging and paper manufacturing industries.</p><p>In conclusion, remote work is a powerful tool for environmental conservation. By reducing emissions, saving energy, and minimizing waste, it aligns corporate interests with global sustainability goals.</p>",
+    "q": "What digital transition is mentioned in the fourth paragraph as a benefit of remote work?",
+    "options": [
+      "The use of cloud-based gaming for employees.",
+      "The transition from digital files to physical filing cabinets.",
+      "A significant decrease in paper consumption due to digital collaboration.",
+      "The requirement for every worker to have three monitors.",
+      "The total elimination of the internet during work hours."
+    ],
+    "key": "C",
+    "correct": [
+      2
+    ]
+  },
+  {
+    "num": 71,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Analytical Exposition",
+    "columns": [
+      "Tools/Skills",
+      "Risks"
+    ],
+    "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
+    "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya berdasarkan bukti atau sekadar berusaha mempengaruhi pembaca.",
+    "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
+    "q": "Based on the text, categorize the following items into 'Tools/Skills' mentioned for financial management or 'Risks' mentioned in the digital world.",
+    "items": [
+      "Budgeting apps and digital trackers",
+      "Predatory lending and high-interest debt",
+      "Sophisticated phishing scams",
+      "Automated savings and investment platforms"
+    ],
+    "key": "1-Tool/Skill, 2-Risk, 3-Risk, 4-Tool/Skill",
+    "correct": [
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "num": 72,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Analytical Exposition",
+    "columns": [
+      "True",
+      "False"
+    ],
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
+    "q": "Determine if the following statements are True or False according to the text.",
+    "items": [
+      "Financial literacy is primarily about becoming a millionaire quickly.",
+      "Digital tools can help individuals track their spending in real-time.",
+      "Understanding credit scores is irrelevant for long-term goals like buying a home.",
+      "Financial education helps people recognize 'too good to be true' offers."
+    ],
+    "key": "1-False, 2-True, 3-False, 4-True",
+    "correct": [
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "num": 73,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Analytical Exposition",
+    "columns": [
+      "Correct",
+      "Not Correct"
+    ],
+    "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
+    "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
+    "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
+    "q": "Match the Cause and Effect based on the text. Are these pairs Correct or Not Correct?",
+    "items": [
+      "Lack of financial education -> Increased risk of falling into debt.",
+      "Starting a business -> Always leads to forgetting how to budget.",
+      "Financial knowledge -> Better recognition of sophisticated scams.",
+      "Using digital tools -> Automatically results in loss of savings."
+    ],
+    "key": "1-Correct, 2-Not Correct, 3-Correct, 4-Not Correct",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 74,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Analytical Exposition",
+    "columns": [
+      "Financial Literacy",
+      "Financial Ignorance"
+    ],
+    "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
+    "sub_comp": "Mengklasifikasi: mampu mengelompokkan orang, benda, tempat, atau peristiwa dalam teks berdasarkan kategori tertentu.",
+    "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
+    "q": "Classify the following behaviors into Financial Literacy or Financial Ignorance based on the context of the text.",
+    "items": [
+      "Recognizing that a 'too good to be true' offer is likely a scam.",
+      "Relying on predatory loans to start a business.",
+      "Budgeting money to achieve a long-term goal like buying a home.",
+      "Paying only the minimum payment without checking interest rates."
+    ],
+    "key": "1-Financial Literacy, 2-Financial Ignorance, 3-Financial Literacy, 4-Financial Ignorance",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "num": 75,
+    "type": "Kategori",
+    "bentuk": "PGK Kategori",
+    "jenis": "Analytical Exposition",
+    "columns": [
+      "Valid",
+      "Invalid"
+    ],
+    "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
+    "sub_comp": "Menilai kecukupan dan validitas informasi: Menilai kesesuaian, kelengkapan, keakuratan informasi dalam teks (dengan membandingkannya dengan sumber lain).",
+    "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
+    "q": "Evaluate if the text provides sufficient information/evidence for the following claims. Mark as Valid (provided) or Invalid (not provided).",
+    "items": [
+      "Financial education helps in identifying digital financial scams.",
+      "Detailed steps on how to invest in the international stock market.",
+      "Knowledge of credit scores can prevent long-term debt traps.",
+      "A list of the top five budgeting apps currently available for free."
+    ],
+    "key": "1-Valid, 2-Invalid, 3-Valid, 4-Invalid",
+    "correct": [
+      0,
+      1,
+      0,
+      1
+    ]
+  }
+]

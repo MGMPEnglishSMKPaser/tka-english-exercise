@@ -1,0 +1,522 @@
+:root {
+    --primary-blue: #007bff;
+    --dark-blue: #0056b3;
+    --bg-gray: #f8f9fa;
+    --border-color: #dee2e6;
+}
+
+body {
+    font-family: 'Google Sans Flex', sans-serif !important; 
+    background-color: var(--bg-gray);
+    margin: 0;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* --- NEW HEADER LAYOUT --- */
+.main-header {
+    height: 120px; 
+    background-color: white; 
+    border-bottom: 3px solid var(--primary-blue);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.main-header .container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 40px;
+    display: flex;
+    flex-direction: row; /* Side-by-side logo and text */
+    align-items: center; 
+    gap: 40px; /* Space between logo and text */
+}
+
+.header-logo {
+    height: 80px; /* Adjust based on your logo design */
+    width: auto;
+    display: block;
+}
+
+.title-area {
+    text-align: left; /* Aligns text to the right of the logo */
+}
+
+.main-header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+    color: #333;
+}
+
+.main-header p {
+    margin: 5px 0 0 0;
+    color: #666;
+    font-size: 1.4rem;
+}
+
+/* --- REST OF YOUR CSS --- */
+.content-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    padding: 23px 0px 20px;
+}
+
+.text-panel {
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.panel-header {
+    background: #eee;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.scroll-area {
+    padding: 20px;
+    max-height: 500px;
+    overflow-y: auto;
+    line-height: 1.6;
+}
+
+.info-card {
+    background: #e7f1ff;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 0.9rem;
+}
+
+.info-row { margin-bottom: 5px; }
+
+.question-box {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.question-text {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.option {
+    display: flex;
+    align-items: flex-start;
+    padding: 15px;
+    border: 1px solid #eee;
+    margin-bottom: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.2s;
+    line-height: 1.6;
+}
+
+.option input[type="radio"], 
+.option input[type="checkbox"] {
+    margin-top: 5px;
+    margin-right: 15px;
+    flex-shrink: 0;
+}
+
+.option span {
+    display: block;
+}
+
+.option:hover { background-color: #f0f7ff; }
+
+.nav-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    gap: 15px;
+    justify-content: center; /* Added to center buttons, common for nav bars */
+}
+
+/* Note: Your existing CSS already styles #btn-prev and #btn-next IDs */
+
+/* Cleaned up base button styles */
+.btn-reveal, .btn-revealo, .btn-nav { 
+  font-family: 'Google Sans Flex', sans-serif;
+  padding: 12px 24px; border: none; border-radius: 6px;
+  cursor: pointer; font-weight: 600; transition: all 0.3s ease; display:
+  inline-flex; align-items: center; justify-content: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+}
+
+.btn-reveal { 
+  background-color: var(--primary-blue); color: white; 
+}
+
+#btn-prev {
+    background-color: #6c757d;
+    color: white;
+}
+
+.btn-reveal:hover:not(:disabled) { 
+  filter: brightness(1.15); 
+  transform: translateY(-2px); 
+  box-shadow: 0 5px 15px rgba(0, 123, 255, 0.4); 
+}
+
+button:disabled {
+    background-color: #ccc !important;
+    cursor: not-allowed;
+    transform: none !important;
+    box-shadow: none !important;
+    filter: none !important;
+}
+
+/* --- SHARED 3D BUTTON BASE --- */
+#btn-prev, #btn-next {
+  font: inherit;
+  border: 0;
+  border-radius: 0.5em;
+  font-size: 1rem; /* Slightly adjusted to fit your layout gracefully */
+  padding: 0.5em 1.5em;
+  font-weight: 600;
+  transition: 0.15s ease;
+  cursor: pointer;
+  
+  /* --- THE MOBILE FIX --- */
+  -webkit-tap-highlight-color: transparent; 
+  outline: none;
+}  
+
+/* The physical "push down" movement */
+#btn-prev:active, #btn-next:active {
+  translate: 0 0.225em; 
+}
+
+/* --- GRAY THEME (Previous Question) --- */
+#btn-prev {
+  background-color: #f0f0f0;
+  color: #242424;
+  text-shadow: 0 0.0625em 0 #fff;
+  /* Original gray shadow layers */
+  box-shadow: 
+    inset 0 0.0625em 0 0 #f4f4f4, 0 0.0625em 0 0 #efefef,
+    0 0.125em 0 0 #ececec, 0 0.25em 0 0 #e0e0e0, 0 0.3125em 0 0 #dedede,
+    0 0.375em 0 0 #dcdcdc, 0 0.425em 0 0 #cacaca, 0 0.425em 0.5em 0 #cecece;
+}
+
+#btn-prev:active {
+  box-shadow: 
+    inset 0 0.03em 0 0 #f4f4f4, 0 0.03em 0 0 #efefef,
+    0 0.0625em 0 0 #ececec, 0 0.125em 0 0 #e0e0e0, 0 0.125em 0 0 #dedede,
+    0 0.2em 0 0 #dcdcdc, 0 0.225em 0 0 #cacaca, 0 0.225em 0.375em 0 #cecece;
+}
+
+/* --- BLUE THEME (Next Question) --- */
+#btn-next {
+  background-color: var(--primary-blue, #007bff);
+  color: #ffffff;
+  text-shadow: 0 0.0625em 0 rgba(0, 0, 0, 0.2); /* Dark shadow for white text */
+  /* Progressively darker shades of blue to create the 3D edge */
+  box-shadow: 
+    inset 0 0.0625em 0 0 rgba(255, 255, 255, 0.2), /* Top edge highlight */
+    0 0.0625em 0 0 #0073ee, 
+    0 0.125em 0 0 #0069d9, 
+    0 0.25em 0 0 #005fc3, 
+    0 0.3125em 0 0 #0056b3,
+    0 0.375em 0 0 #004a9f, 
+    0 0.425em 0 0 #004085, 
+    0 0.425em 0.5em 0 rgba(0, 123, 255, 0.4); /* Base soft glow */
+}
+
+#btn-next:active {
+  box-shadow: 
+    inset 0 0.03em 0 0 rgba(255, 255, 255, 0.2), 
+    0 0.03em 0 0 #0073ee,
+    0 0.0625em 0 0 #0069d9, 
+    0 0.125em 0 0 #005fc3, 
+    0 0.125em 0 0 #0056b3,
+    0 0.2em 0 0 #004a9f, 
+    0 0.225em 0 0 #004085, 
+    0 0.225em 0.375em 0 rgba(0, 123, 255, 0.4);
+}
+
+/* --- GREEN THEME (Selesai Tes Mode) --- */
+#btn-next.btn-finish-mode {
+  background-color: #28a745 !important;
+  box-shadow: 
+    inset 0 0.0625em 0 0 rgba(255, 255, 255, 0.2), 
+    0 0.0625em 0 0 #24963e, 0 0.125em 0 0 #208537, 
+    0 0.25em 0 0 #1c7430, 0 0.3125em 0 0 #186329,
+    0 0.375em 0 0 #145222, 0 0.425em 0 0 #10411b, 
+    0 0.425em 0.5em 0 rgba(40, 167, 69, 0.4) !important;
+}
+#btn-next.btn-finish-mode:active {
+  box-shadow: 
+    inset 0 0.03em 0 0 rgba(255, 255, 255, 0.2), 
+    0 0.03em 0 0 #24963e, 0 0.0625em 0 0 #208537, 
+    0 0.125em 0 0 #1c7430, 0 0.125em 0 0 #186329,
+    0 0.2em 0 0 #145222, 0 0.225em 0 0 #10411b, 
+    0 0.225em 0.375em 0 rgba(40, 167, 69, 0.4) !important;
+}
+
+#answer-key {
+    margin-top: 15px;
+    padding: 10px;
+    background: #d4edda;
+    border-left: 5px solid #28a745;
+}
+
+.hidden { display: none !important; }
+.q-ui { margin-top: 20px; }
+
+.assessment-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    font-size: 0.9rem;
+}
+
+.assessment-table td {
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.assessment-table th {
+    background-color: #f2f2f2;
+    padding: 12px 8px;
+    white-space: nowrap;
+}
+
+.assessment-table th, .assessment-table td {
+    border: 1px solid var(--border-color);
+    text-align: center;
+}
+
+.assessment-table td:first-child { text-align: left; }
+
+button, input, select, textarea {
+    font-family: inherit;
+}
+
+.correct-highlight {
+    background-color: #d4edda !important;
+    border-color: #28a745 !important;
+    color: #155724;
+}
+
+.wrong-highlight {
+    background-color: #f8d7da !important;
+    border-color: #dc3545 !important;
+    color: #721c24;
+}
+
+td.correct-highlight { background-color: #d4edda !important; }
+td.wrong-highlight { background-color: #f8d7da !important; }
+
+.instruction {
+  display: inline-block;
+  transform: skewX(-8deg);
+  color: #434343;
+}
+
+/*@media (max-width: 768px) {
+    .content-grid { grid-template-columns: 1fr; }
+    .main-header .container { flex-direction: column; text-align: center; height: auto; padding: 20px 0; }
+    .main-header { height: auto; }
+}*/
+   
+@media (max-width: 768px) {
+    
+    .main-header {
+        height: auto;
+    }
+
+    .main-header .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 15px 0px 12px;
+        align-items: center;
+        gap: 4vw; /* responsive gap */
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .header-logo {
+        height: auto;
+        width: 65%; /* auto scale logo */
+        min-width: 50px; /* prevent too small */
+    }
+
+    .content-grid {
+        display: flex;              /* Switch from grid to flex */
+        flex-direction: column;     /* Stack items "up and down" */
+        gap: 0;                  /* Keeps the 30px space between panels */
+        padding: 15px;    /* Added horizontal padding for mobile spacing */
+    }
+
+    .title-area {
+        padding: 0 20px;        /* Keeps your 20px left/right padding */
+        text-align: center;
+        width: 100%;            /* Ensures the area fills the container for centering */
+        box-sizing: border-box; /* Includes padding in the width calculation */
+    }
+
+    .main-header h1, 
+    .main-header p {
+        white-space: nowrap;    /* Forces text to stay on one line */
+        overflow: hidden;       /* Hides any text that spills out */
+        text-overflow: ellipsis; /* Adds '...' if the text is too long */
+        margin: 0;
+    }
+
+    .main-header h1 {
+        font-size: 3.85vw; /* responsive text */
+        margin: 0;
+    }
+
+    .main-header p {
+        font-size: 3.5vw;
+        margin: 2px 0 0 0;
+    }
+
+    .text-panel {
+        margin: 20px;
+    }
+
+    .info-card, .question-box {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+}
+
+/* --- MODAL LAYOUT STYLES --- */
+.modal-overlay {
+  position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex; justify-content: center; align-items: center; z-index: 9999;
+}
+
+.modal-box {
+  background: white; 
+  padding: 30px; 
+  border-radius: 8px; 
+  width: 90%; 
+  max-width: 500px;
+  text-align: center; 
+  /* Trigger the custom animation when the modal appears */
+  animation: softPop 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.modal-box h3 { margin-top: 0; font-size: 24px; font-weight: normal; }
+.modal-box p { font-size: 16px; line-height: 1.5; margin: 20px 0; }
+.badge-red { background-color: #dc3545; color: white; padding: 2px 6px; border-radius: 3px; font-size: 14px; }
+.badge-green { background-color: #28a745; color: white; padding: 2px 6px; border-radius: 3px; font-size: 14px; }
+.modal-buttons { display: flex; justify-content: center; gap: 15px; margin-top: 25px; }
+.btn-red { background-color: #dc3545; color: white; border: none; padding: 10px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; }
+.btn-green { background-color: #28a745; color: white; border: none; padding: 10px 25px; border-radius: 5px; cursor: pointer; font-weight: bold; }
+
+/* --- PREMIUM MODAL ANIMATION --- */
+@keyframes softPop {
+  0% {
+    opacity: 0;
+    transform: scale(0.95) translateY(10px);
+    filter: blur(4px);
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+    filter: blur(0);
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.15), 
+                0 4px 10px rgba(0, 0, 0, 0.05);
+  }
+}
+
+/* Styling for the Reading Text Paragraphs */
+#reading-content p {
+  text-align: justify;
+  text-justify: inter-word; /* Makes the spacing between words look cleaner */
+  margin-bottom: 15px; /* Adds a nice breathing room between paragraphs */
+}
+
+/* --- MOBILE RESPONSIVENESS --- */
+@media (max-width: 395px) {
+  #btn-prev, #btn-next {
+    font-size: 0.99rem;
+  }
+}
+
+/* --- DESKTOP APP LAYOUT (FIXED SCREEN, INTERNAL SCROLLING) --- */
+@media (min-width: 900px) {
+  /* 1. Lock the body to the exact height of the screen */
+  body {
+    height: 100vh;
+    overflow: hidden; /* Kills the main webpage scrollbar */
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* 2. Tell the main grid to fill the remaining space below the header */
+  .content-grid {
+    flex: 1;
+    min-height: 0; /* Crucial for flexbox to allow shrinking */
+    padding-bottom: 20px;
+  }
+
+  /* 3. Make both left and right panels scroll independently on the inside */
+  /* This targets both sections inside your grid */
+	.text-panel,
+	.question-panel {
+			display: flex;
+			flex-direction: column;
+			max-height: calc(100vh - 160px);
+	}
+
+	.scroll-area,
+	.question-panel {
+        padding-right: 7.5px;
+        overflow-y: auto;
+        box-sizing: border-box;
+        scrollbar-gutter: stable;
+    }
+
+	.panel-header {
+    width: 100%;
+    box-sizing: border-box;
+	}
+
+	.scroll-area {
+    padding: 20px;
+    max-height: 500px;
+    overflow-y: auto;
+    line-height: 1.6;
+    scrollbar-gutter: stable;
+	}
+
+  /* 4. A clean, modern scrollbar so it doesn't look clunky */
+  .content-grid > section::-webkit-scrollbar,
+  .content-grid > div::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .content-grid > section::-webkit-scrollbar-thumb,
+  .content-grid > div::-webkit-scrollbar-thumb {
+    background-color: #cbd5e1;
+    border-radius: 10px;
+  }
+  
+  .content-grid > section::-webkit-scrollbar-track,
+  .content-grid > div::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+}

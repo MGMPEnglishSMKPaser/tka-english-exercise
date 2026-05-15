@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TKA English Assessment</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header class="main-header">
+        <div class="container">
+            <!-- Path updated to your assets folder -->
+            <img src="assets/images/logo.png" alt="TKA Logo" class="header-logo">
+            
+            <div class="title-area">
+                <h1>MGMP Bahasa Inggris SMK Kabupaten Paser</h1>
+                <p>Latihan Soal TKA (Tes Kemampuan Akademik)</p>
+            </div>
+        </div>
+    </header>
+
+    <main class="container content-grid">
+        <section class="text-panel">
+            <div id="text-header" class="panel-header">Teks Bacaan</div>
+            <div class="scroll-area">
+                <article id="reading-content"></article>
+            </div>
+        </section>
+
+        <section class="question-panel">
+            <div class="info-card">
+                <div class="info-row"><strong>No. Soal:</strong> <span id="q-num">1</span></div>
+                <div class="info-row"><strong>Kompetensi:</strong> <span id="q-comp">...</span></div>
+                <div class="info-row"><strong>Sub Kompetensi:</strong> <span id="q-sub-comp">...</span></div>
+                <div class="info-row"><strong>Bentuk:</strong> <span id="q-bentuk">...</span></div>
+                <div class="info-row"><strong>Jenis Teks:</strong> <span id="q-jenis">...</span></div>
+            </div>
+
+            <div class="question-box">
+                <p id="question-text" class="question-text">Loading question...</p>
+                
+                <div id="ui-pg" class="q-ui hidden"></div>
+                <div id="ui-mcma" class="q-ui hidden">
+                    <!-- Keep this paragraph here, separate from the dynamic options div -->
+                    <p class="instruction">(Pilih semua jawaban yang benar)</p>
+                    <div id="options-mcma"></div>
+                </div>
+                <div id="ui-kategori" class="q-ui hidden">
+                    <table class="assessment-table">
+                        <thead><tr></tr></thead>
+                        <tbody id="table-body"></tbody>
+                    </table>
+                </div>
+            </div>
+            
+            <div class="nav-container">
+                <button id="btn-prev" class="btn-action" onclick="prevQuestion()">Previous Question</button>
+                <button id="btn-next" class="btn-action" onclick="handleNextClick()">Next Question</button>
+            </div>
+        </section>
+    </main>
+
+    <div id="konfirmasi-modal" class="modal-overlay hidden">
+        <div class="modal-box">
+            <h3>Test Confirmation</h3>
+            <p>Thank you for participating in this test.<br>
+            <p>Please press the <span class="badge-red">FINISH TEST</span> button to end the test. Or, press the <span class="badge-green">BACK</span> button to return to the test page.</p>            
+
+            <div class="modal-buttons">
+                <button id="btn-selesai-modal" class="btn-red">FINISH TEST</button>
+                <button id="btn-kembali-modal" class="btn-green">BACK</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="restart-modal" class="modal-overlay hidden">
+        <div class="modal-box">
+            <h3>Start New Test?</h3>
+            <p>Are you sure you want to start a new test? <br>All your current review data will be deleted.</p>
+            
+            <div class="modal-buttons">
+            <button id="btn-batal-restart" class="btn-green">CANCEL</button>
+            <button id="btn-ya-restart" class="btn-red">RESTART</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/js/script.js"></script>
+    
+</body>
+</html>
