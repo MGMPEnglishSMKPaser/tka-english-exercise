@@ -112,7 +112,7 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>The Modern Library</h3><p>The Central Library is a three-story building located in the heart of the city. Unlike traditional libraries that are often dark and silent, this building features a modern architectural design with large glass windows that allow natural sunlight to fill the rooms.</p><p>On the first floor, there is a spacious \"Digital Zone\" equipped with high-speed computers and tablets for public use. Moving up to the second floor, visitors find the \"silent study area.\" This floor is lined with floor-to-ceiling bookshelves containing thousands of fiction and non-fiction titles. The atmosphere here is calm, with soft carpets and comfortable ergonomic chairs. Small wooden desks are placed near the windows, giving students a peaceful view of the city park while they read.</p><p>The third floor is dedicated to the \"Creative Hub.\" This is a collaborative space where people can meet for group discussions or workshops. There are several glass-walled meeting rooms, a small cafe serving organic coffee, and a 3D-printing station.</p><p>The library is not just a place to borrow books; it has become a community center where technology and traditional learning meet.</p>",
-    "q": "Based on the text, which of the following facilities can be found inside the Central Library? (Select all that apply)",
+    "q": "Based on the text, which of the following facilities can be found inside the Central Library?",
     "options": [
       "A station for 3D-printing",
       "An outdoor swimming pool",
@@ -156,7 +156,7 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Mengklasifikasi: mampu mengelompokkan orang, benda, tempat, atau peristiwa dalam teks berdasarkan kategori tertentu.",
     "text": "<h3 style='text-align: center;'>The Modern Library</h3><p>The Central Library is a three-story building located in the heart of the city. Unlike traditional libraries that are often dark and silent, this building features a modern architectural design with large glass windows that allow natural sunlight to fill the rooms.</p><p>On the first floor, there is a spacious \"Digital Zone\" equipped with high-speed computers and tablets for public use. Moving up to the second floor, visitors find the \"silent study area.\" This floor is lined with floor-to-ceiling bookshelves containing thousands of fiction and non-fiction titles. The atmosphere here is calm, with soft carpets and comfortable ergonomic chairs. Small wooden desks are placed near the windows, giving students a peaceful view of the city park while they read.</p><p>The third floor is dedicated to the \"Creative Hub.\" This is a collaborative space where people can meet for group discussions or workshops. There are several glass-walled meeting rooms, a small cafe serving organic coffee, and a 3D-printing station.</p><p>The library is not just a place to borrow books; it has become a community center where technology and traditional learning meet.</p>",
-    "q": "Which statements accurately describe the atmosphere or design of the library? (Select all that apply)",
+    "q": "Which statements accurately describe the atmosphere or design of the library?",
     "options": [
       "The building is made entirely of dark wood.",
       "Large glass walls allow for plenty of natural light.",
@@ -461,7 +461,7 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>Thomas Alva Edison</h3><p>Thomas Alva Edison was one of the greatest inventors in history. Born in 1847 in Ohio, USA, he had very little formal education. As a child, he was often considered \"slow\" by his teachers, but his mother believed in him and taught him at home. This encouraged his curiosity and love for experiments.</p><p>Throughout his life, Edison patented 1,093 inventions. His most famous contribution was the practical incandescent electric light bulb. Before succeeding, he famously failed thousands of times. He once said, \"I have not failed. I've just found 10,000 ways that won't work.\" In addition to the light bulb, he also invented the phonograph and the motion picture camera.</p><p>Edison's hard work changed the way people lived and worked all over the world. He passed away in 1931, leaving behind a legacy of persistence and innovation.</p>",
-    "q": "Which of the following were invented or developed by Thomas Alva Edison according to the text? (Select all that apply)",
+    "q": "Which of the following were invented or developed by Thomas Alva Edison according to the text?",
     "options": [
       "The phonograph",
       "The telephone",
@@ -484,7 +484,7 @@
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan karakter tokoh: mampu menyimpulkan sifat atau kepribadian tokoh berdasarkan petunjuk eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>Thomas Alva Edison</h3><p>Thomas Alva Edison was one of the greatest inventors in history. Born in 1847 in Ohio, USA, he had very little formal education. As a child, he was often considered \"slow\" by his teachers, but his mother believed in him and taught him at home. This encouraged his curiosity and love for experiments.</p><p>Throughout his life, Edison patented 1,093 inventions. His most famous contribution was the practical incandescent electric light bulb. Before succeeding, he famously failed thousands of times. He once said, \"I have not failed. I've just found 10,000 ways that won't work.\" In addition to the light bulb, he also invented the phonograph and the motion picture camera.</p><p>Edison's hard work changed the way people lived and worked all over the world. He passed away in 1931, leaving behind a legacy of persistence and innovation.</p>",
-    "q": "Based on the text, what traits best describe Thomas Alva Edison? (Select all that apply)",
+    "q": "Based on the text, what traits best describe Thomas Alva Edison?",
     "options": [
       "Easily discouraged by failure",
       "Highly persistent and hardworking",
@@ -506,7 +506,7 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>Thomas Alva Edison</h3><p>Thomas Alva Edison was one of the greatest inventors in history. Born in 1847 in Ohio, USA, he had very little formal education. As a child, he was often considered \"slow\" by his teachers, but his mother believed in him and taught him at home. This encouraged his curiosity and love for experiments.</p><p>Throughout his life, Edison patented 1,093 inventions. His most famous contribution was the practical incandescent electric light bulb. Before succeeding, he famously failed thousands of times. He once said, \"I have not failed. I've just found 10,000 ways that won't work.\" In addition to the light bulb, he also invented the phonograph and the motion picture camera.</p><p>Edison's hard work changed the way people lived and worked all over the world. He passed away in 1931, leaving behind a legacy of persistence and innovation.</p>",
-    "q": "Which statements about Edison’s childhood are true according to the text? (Select all that apply)",
+    "q": "Which statements about Edison’s childhood are true according to the text?",
     "options": [
       "He was born in Ohio, USA.",
       "He spent many years in a formal school.",
@@ -528,7 +528,7 @@
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
     "text": "<h3 style='text-align: center;'>Thomas Alva Edison</h3><p>Thomas Alva Edison was one of the greatest inventors in history. Born in 1847 in Ohio, USA, he had very little formal education. As a child, he was often considered \"slow\" by his teachers, but his mother believed in him and taught him at home. This encouraged his curiosity and love for experiments.</p><p>Throughout his life, Edison patented 1,093 inventions. His most famous contribution was the practical incandescent electric light bulb. Before succeeding, he famously failed thousands of times. He once said, \"I have not failed. I've just found 10,000 ways that won't work.\" In addition to the light bulb, he also invented the phonograph and the motion picture camera.</p><p>Edison's hard work changed the way people lived and worked all over the world. He passed away in 1931, leaving behind a legacy of persistence and innovation.</p>",
-    "q": "What can we learn from Edison’s quote: 'I have not failed. I've just found 10,000 ways that won't work'? (Select all that apply)",
+    "q": "What can we learn from Edison’s quote: 'I have not failed. I've just found 10,000 ways that won't work'?",
     "options": [
       "He didn't care about the results of his work.",
       "He viewed mistakes as a part of the learning process.",
@@ -550,7 +550,7 @@
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral yang tidak secara eksplisit dinyatakan dalam teks.",
     "text": "<h3 style='text-align: center;'>Thomas Alva Edison</h3><p>Thomas Alva Edison was one of the greatest inventors in history. Born in 1847 in Ohio, USA, he had very little formal education. As a child, he was often considered \"slow\" by his teachers, but his mother believed in him and taught him at home. This encouraged his curiosity and love for experiments.</p><p>Throughout his life, Edison patented 1,093 inventions. His most famous contribution was the practical incandescent electric light bulb. Before succeeding, he famously failed thousands of times. He once said, \"I have not failed. I've just found 10,000 ways that won't work.\" In addition to the light bulb, he also invented the phonograph and the motion picture camera.</p><p>Edison's hard work changed the way people lived and worked all over the world. He passed away in 1931, leaving behind a legacy of persistence and innovation.</p>",
-    "q": "Why did the author write this text? (Select all that apply)",
+    "q": "Why did the author write this text?",
     "options": [
       "To provide information about Edison's life and achievements.",
       "To persuade readers to buy electric light bulbs.",
@@ -817,7 +817,7 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>The Secret of the Whispering Woods</h3><p>Leo was not an adventurous boy, but when his younger sister, Mia, disappeared into the Whispering Woods, he had no choice but to follow. The woods were famous for their strange echoes and trees that seemed to move when no one was looking. Armed only with a dim flashlight and a wooden stick, Leo stepped onto the mossy path.</p><p>The air grew cold, and the sound of his own footsteps seemed to repeat three times in the distance. \"Mia!\" he shouted, but the forest only whispered back, \"Mia... mia... ia...\" Suddenly, Leo noticed a trail of blue flower petals on the ground. He remembered that Mia had been wearing a crown of those exact flowers earlier that day.</p><p>He followed the trail deeper into the heart of the forest, where the trees grew so close together that the moonlight could barely reach the floor. He eventually reached a clearing where a massive, ancient oak tree stood. Its bark was covered in glowing symbols. To his relief, he saw Mia sitting at the base of the tree. She wasn't crying; instead, she was talking to a small, glowing fox. The fox looked at Leo with intelligent eyes and then vanished into the shadows.</p><p>Mia stood up and hugged her brother. \"I followed the fox, Leo! He showed me the way to the heart of the woods,\" she explained excitedly. Leo realized the forest wasn't trying to scare them; it was protecting a secret world. As they walked back together, the trees seemed to lean back to clear a path for them, and the whispers turned into a soft, melodic hum that guided them safely home.</p>",
-    "q": "What items or clues helped Leo find his sister in the woods? (Select all that apply)",
+    "q": "What items or clues helped Leo find his sister in the woods?",
     "options": [
       "A trail of blue flower petals",
       "A map he found in his backyard",
@@ -840,7 +840,7 @@
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
     "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
     "text": "<h3 style='text-align: center;'>The Secret of the Whispering Woods</h3><p>Leo was not an adventurous boy, but when his younger sister, Mia, disappeared into the Whispering Woods, he had no choice but to follow. The woods were famous for their strange echoes and trees that seemed to move when no one was looking. Armed only with a dim flashlight and a wooden stick, Leo stepped onto the mossy path.</p><p>The air grew cold, and the sound of his own footsteps seemed to repeat three times in the distance. \"Mia!\" he shouted, but the forest only whispered back, \"Mia... mia... ia...\" Suddenly, Leo noticed a trail of blue flower petals on the ground. He remembered that Mia had been wearing a crown of those exact flowers earlier that day.</p><p>He followed the trail deeper into the heart of the forest, where the trees grew so close together that the moonlight could barely reach the floor. He eventually reached a clearing where a massive, ancient oak tree stood. Its bark was covered in glowing symbols. To his relief, he saw Mia sitting at the base of the tree. She wasn't crying; instead, she was talking to a small, glowing fox. The fox looked at Leo with intelligent eyes and then vanished into the shadows.</p><p>Mia stood up and hugged her brother. \"I followed the fox, Leo! He showed me the way to the heart of the woods,\" she explained excitedly. Leo realized the forest wasn't trying to scare them; it was protecting a secret world. As they walked back together, the trees seemed to lean back to clear a path for them, and the whispers turned into a soft, melodic hum that guided them safely home.</p>",
-    "q": "How does the author describe the atmosphere of the Whispering Woods? (Select all that apply)",
+    "q": "How does the author describe the atmosphere of the Whispering Woods?",
     "options": [
       "A sunny and bright playground for children",
       "A place where echoes repeat strangely",
@@ -862,7 +862,7 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>The Secret of the Whispering Woods</h3><p>Leo was not an adventurous boy, but when his younger sister, Mia, disappeared into the Whispering Woods, he had no choice but to follow. The woods were famous for their strange echoes and trees that seemed to move when no one was looking. Armed only with a dim flashlight and a wooden stick, Leo stepped onto the mossy path.</p><p>The air grew cold, and the sound of his own footsteps seemed to repeat three times in the distance. \"Mia!\" he shouted, but the forest only whispered back, \"Mia... mia... ia...\" Suddenly, Leo noticed a trail of blue flower petals on the ground. He remembered that Mia had been wearing a crown of those exact flowers earlier that day.</p><p>He followed the trail deeper into the heart of the forest, where the trees grew so close together that the moonlight could barely reach the floor. He eventually reached a clearing where a massive, ancient oak tree stood. Its bark was covered in glowing symbols. To his relief, he saw Mia sitting at the base of the tree. She wasn't crying; instead, she was talking to a small, glowing fox. The fox looked at Leo with intelligent eyes and then vanished into the shadows.</p><p>Mia stood up and hugged her brother. \"I followed the fox, Leo! He showed me the way to the heart of the woods,\" she explained excitedly. Leo realized the forest wasn't trying to scare them; it was protecting a secret world. As they walked back together, the trees seemed to lean back to clear a path for them, and the whispers turned into a soft, melodic hum that guided them safely home.</p>",
-    "q": "Which characters appear in the clearing of the woods? (Select all that apply)",
+    "q": "Which characters appear in the clearing of the woods?",
     "options": [
       "Leo's sister, Mia",
       "A small, glowing fox",
@@ -884,7 +884,7 @@
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
     "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
     "text": "<h3 style='text-align: center;'>The Secret of the Whispering Woods</h3><p>Leo was not an adventurous boy, but when his younger sister, Mia, disappeared into the Whispering Woods, he had no choice but to follow. The woods were famous for their strange echoes and trees that seemed to move when no one was looking. Armed only with a dim flashlight and a wooden stick, Leo stepped onto the mossy path.</p><p>The air grew cold, and the sound of his own footsteps seemed to repeat three times in the distance. \"Mia!\" he shouted, but the forest only whispered back, \"Mia... mia... ia...\" Suddenly, Leo noticed a trail of blue flower petals on the ground. He remembered that Mia had been wearing a crown of those exact flowers earlier that day.</p><p>He followed the trail deeper into the heart of the forest, where the trees grew so close together that the moonlight could barely reach the floor. He eventually reached a clearing where a massive, ancient oak tree stood. Its bark was covered in glowing symbols. To his relief, he saw Mia sitting at the base of the tree. She wasn't crying; instead, she was talking to a small, glowing fox. The fox looked at Leo with intelligent eyes and then vanished into the shadows.</p><p>Mia stood up and hugged her brother. \"I followed the fox, Leo! He showed me the way to the heart of the woods,\" she explained excitedly. Leo realized the forest wasn't trying to scare them; it was protecting a secret world. As they walked back together, the trees seemed to lean back to clear a path for them, and the whispers turned into a soft, melodic hum that guided them safely home.</p>",
-    "q": "What can be concluded about the forest at the end of the story? (Select all that apply)",
+    "q": "What can be concluded about the forest at the end of the story?",
     "options": [
       "The forest is a dangerous place that wants to hurt children.",
       "The forest has no magical properties at all.",
@@ -907,7 +907,7 @@
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi.",
     "sub_comp": "Menyimpulkan urutan kejadian: mampu memperkirakan isi selanjutnya dari teks.",
     "text": "<h3 style='text-align: center;'>The Secret of the Whispering Woods</h3><p>Leo was not an adventurous boy, but when his younger sister, Mia, disappeared into the Whispering Woods, he had no choice but to follow. The woods were famous for their strange echoes and trees that seemed to move when no one was looking. Armed only with a dim flashlight and a wooden stick, Leo stepped onto the mossy path.</p><p>The air grew cold, and the sound of his own footsteps seemed to repeat three times in the distance. \"Mia!\" he shouted, but the forest only whispered back, \"Mia... mia... ia...\" Suddenly, Leo noticed a trail of blue flower petals on the ground. He remembered that Mia had been wearing a crown of those exact flowers earlier that day.</p><p>He followed the trail deeper into the heart of the forest, where the trees grew so close together that the moonlight could barely reach the floor. He eventually reached a clearing where a massive, ancient oak tree stood. Its bark was covered in glowing symbols. To his relief, he saw Mia sitting at the base of the tree. She wasn't crying; instead, she was talking to a small, glowing fox. The fox looked at Leo with intelligent eyes and then vanished into the shadows.</p><p>Mia stood up and hugged her brother. \"I followed the fox, Leo! He showed me the way to the heart of the woods,\" she explained excitedly. Leo realized the forest wasn't trying to scare them; it was protecting a secret world. As they walked back together, the trees seemed to lean back to clear a path for them, and the whispers turned into a soft, melodic hum that guided them safely home.</p>",
-    "q": "Which of the following events occur in the 'Resolution' of this story? (Select all that apply)",
+    "q": "Which of the following events occur in the 'Resolution' of this story?",
     "options": [
       "Leo decides to stay in the woods forever.",
       "The siblings walk back home safely.",
@@ -1174,7 +1174,7 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<img src='assets/images/reading2.jpg' style='max-width: 100%;'>",
-    "q": "According to the \"Materials\" section, which specific tools are recommended for cleaning the solar panels? (Select all that apply)",
+    "q": "According to the \"Materials\" section, which specific tools are recommended for cleaning the solar panels?",
     "options": [
       "High-pressure power washer",
       "Soft-bristled brush or leaf blower",
@@ -1197,7 +1197,7 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Mengklasifikasi: mampu mengelompokkan orang, benda, tempat, atau peristiwa dalam teks berdasarkan kategori tertentu.",
     "text": "<img src='assets/images/reading2.jpg' style='max-width: 100%;'>",
-    "q": "In Step 3 regarding \"Safe Maintenance Protocols,\" which items are categorized as required Personal Protective Equipment (PPE)? (Select all that apply)",
+    "q": "In Step 3 regarding \"Safe Maintenance Protocols,\" which items are categorized as required Personal Protective Equipment (PPE)?",
     "options": [
       "Safety goggles",
       "Monitoring software",
@@ -1219,7 +1219,7 @@
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
     "text": "<img src='assets/images/reading2.jpg' style='max-width: 100%;'>",
-    "q": "Based on Step 1 and Step 4, what are the likely consequences of failing to perform a \"System Health Check\" or using improper tools? (Select all that apply)",
+    "q": "Based on Step 1 and Step 4, what are the likely consequences of failing to perform a \"System Health Check\" or using improper tools?",
     "options": [
       "The panels will automatically stop producing energy during cleaning.",
       "Using standard metal tools could trigger short-circuits or workshop fires.",
@@ -1241,7 +1241,7 @@
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan detail pendukung: mampu menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
     "text": "<img src='assets/images/reading2.jpg' style='max-width: 100%;'>",
-    "q": "The text mentions \"Optimized Performance Monitoring\" in Step 2. Which statements support the importance of this step? (Select all that apply)",
+    "q": "The text mentions \"Optimized Performance Monitoring\" in Step 2. Which statements support the importance of this step?",
     "options": [
       "It allows for the tracking of real-time energy output via software.",
       "It ensures the soft-bristled brush stays clean for the next use.",
@@ -1264,7 +1264,7 @@
     "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
     "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya berdasarkan bukti atau sekadar berusaha mempengaruhi pembaca.",
     "text": "<img src='assets/images/reading2.jpg' style='max-width: 100%;'>",
-    "q": "Which of the following statements can be assessed as facts directly supported by the provided procedure? (Select all that apply)",
+    "q": "Which of the following statements can be assessed as facts directly supported by the provided procedure?",
     "options": [
       "Panels should be cleaned with a low-pressure hose or deionized water.",
       "Isolating the system using AC/DC switches is a safety requirement before maintenance.",
@@ -1531,7 +1531,7 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>The Environmental Case for Remote Work</h3><p>The global shift toward remote work, accelerated by recent technological advancements, has proven to be more than just a matter of convenience. Beyond its impact on productivity, remote work offers significant environmental benefits. Transitioning to a \"work-from-home\" model is a strategic move that can contribute to a more sustainable future.</p><p>The most immediate environmental advantage is the reduction in carbon emissions. Daily commuting is a major contributor to air pollution and greenhouse gas emissions. When employees work from home, the number of cars on the road decreases significantly. This reduction in traffic leads to lower fuel consumption and a noticeable improvement in urban air quality. Furthermore, decreasing the demand for public transport and personal vehicles reduces the overall carbon footprint of the workforce.</p><p>In addition to reduced emissions, remote work leads to lower energy consumption in commercial buildings. Large office complexes require vast amounts of electricity for lighting, heating, cooling, and operating electronic equipment. When offices are at lower capacity or closed, the energy demand drops. While home energy use might increase slightly, it rarely matches the intensive energy requirements of maintaining a large-scale corporate facility.</p><p>Moreover, remote work encourages a \"paperless\" culture. In a traditional office setting, the reliance on printed documents is often high. However, remote teams naturally rely on digital tools, cloud-based sharing, and electronic signatures. This shift significantly reduces paper waste and, consequently, the environmental impact of the logging and paper manufacturing industries.</p><p>In conclusion, remote work is a powerful tool for environmental conservation. By reducing emissions, saving energy, and minimizing waste, it aligns corporate interests with global sustainability goals.</p>",
-    "q": "According to the text, what are the consequences of sleep deprivation in students? (Select all that apply)",
+    "q": "According to the text, what are the consequences of sleep deprivation in students?",
     "options": [
       "Difficulty with concentration",
       "Enhanced creativity and problem-solving",
