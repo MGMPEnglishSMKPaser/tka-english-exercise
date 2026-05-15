@@ -215,6 +215,7 @@
   {
     "num": 11,
     "type": "Kategori",
+    "rowLabel": "Statement",
     "bentuk": "PGK Kategori",
     "jenis": "Descriptive",
     "columns": [
@@ -242,6 +243,7 @@
   {
     "num": 12,
     "type": "Kategori",
+    "rowLabel": "Statement",
     "bentuk": "PGK Kategori",
     "jenis": "Descriptive",
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
@@ -265,6 +267,7 @@
   {
     "num": 13,
     "type": "Kategori",
+    "rowLabel": "Quality",
     "bentuk": "PGK Kategori",
     "jenis": "Descriptive",
     "columns": [
@@ -292,6 +295,7 @@
   {
     "num": 14,
     "type": "Kategori",
+    "rowLabel": "Cause and Effect",
     "bentuk": "PGK Kategori",
     "jenis": "Descriptive",
     "columns": [
@@ -319,6 +323,7 @@
   {
     "num": 15,
     "type": "Kategori",
+    "rowLabel": "Description",
     "bentuk": "PGK Kategori",
     "jenis": "Descriptive",
     "columns": [
@@ -562,6 +567,7 @@
   {
     "num": 26,
     "type": "Kategori",
+    "rowLabel": "Statement",
     "bentuk": "PGK Kategori",
     "jenis": "Recount",
     "columns": [
@@ -589,6 +595,7 @@
   {
     "num": 27,
     "type": "Kategori",
+    "rowLabel": "Statement",
     "bentuk": "PGK Kategori",
     "jenis": "Recount",
     "columns": [
@@ -616,6 +623,7 @@
   {
     "num": 28,
     "type": "Kategori",
+    "rowLabel": "Event",
     "bentuk": "PGK Kategori",
     "jenis": "Recount",
     "columns": [
@@ -643,6 +651,7 @@
   {
     "num": 29,
     "type": "Kategori",
+    "rowLabel": "Figure and Role",
     "bentuk": "PGK Kategori",
     "jenis": "Recount",
     "columns": [
@@ -670,6 +679,7 @@
   {
     "num": 30,
     "type": "Kategori",
+    "rowLabel": "Adjective",
     "bentuk": "PGK Kategori",
     "jenis": "Recount",
     "columns": [
@@ -681,10 +691,10 @@
     "text": "<h3 style='text-align: center;'>The Proclamation of Indonesian Independence</h3><p>The Proclamation of Indonesian Independence was a turning point in the nation's history. It occurred on Friday, August 17, 1945. The event was prompted by the surrender of Japan to the Allied forces after the atomic bombings of Hiroshima and Nagasaki. Earlier that morning, a group of young activists (the \"Pemuda\") urged Soekarno and Hatta to declare independence immediately. After intense discussions, the proclamation text was drafted at the house of Rear Admiral Maeda.</p><p>At 10:00 AM, Soekarno, accompanied by Moh. Hatta, read the short declaration in front of his house at Jalan Pegangsaan Timur No. 56, Jakarta. The red-and-white flag, sewn by Mrs. Fatmawati, was hoisted, and the national anthem \"Indonesia Raya\" was sung. This simple yet solemn ceremony marked the birth of a new sovereign nation, free from colonial rule.</p>",
     "q": "Does the text describe the proclamation ceremony using these adjectives?",
     "items": [
-      "Solemn (Khidmat)",
-      "Glamorous (Mewah)",
-      "Simple (Sederhana)",
-      "Chaotic (Kacau)"
+      "Solemn",
+      "Glamorous",
+      "Simple",
+      "Chaotic"
     ],
     "key": "1-Yes, 2-No, 3-Yes, 4-No",
     "correct": [
@@ -914,6 +924,7 @@
   {
     "num": 41,
     "type": "Kategori",
+    "rowLabel": "Statement",
     "bentuk": "PGK Kategori",
     "jenis": "Narrative",
     "columns": [
@@ -941,6 +952,7 @@
   {
     "num": 42,
     "type": "Kategori",
+    "rowLabel": "Statement",
     "bentuk": "PGK Kategori",
     "jenis": "Narrative",
     "columns": [
@@ -968,6 +980,7 @@
   {
     "num": 43,
     "type": "Kategori",
+    "rowLabel": "Cause and Effect",
     "bentuk": "PGK Kategori",
     "jenis": "Narrative",
     "columns": [
@@ -995,6 +1008,7 @@
   {
     "num": 44,
     "type": "Kategori",
+    "rowLabel": "Setting/Element",
     "bentuk": "PGK Kategori",
     "jenis": "Narrative",
     "columns": [
@@ -1022,6 +1036,7 @@
   {
     "num": 45,
     "type": "Kategori",
+    "rowLabel": "Phrase",
     "bentuk": "PGK Kategori",
     "jenis": "Narrative",
     "columns": [
@@ -1266,6 +1281,7 @@
   {
     "num": 56,
     "type": "Kategori",
+    "rowLabel": "Item",
     "bentuk": "PGK Kategori",
     "jenis": "Procedure",
     "columns": [
@@ -1293,6 +1309,7 @@
   {
     "num": 57,
     "type": "Kategori",
+    "rowLabel": "Statement",
     "bentuk": "PGK Kategori",
     "jenis": "Procedure",
     "columns": [
@@ -1320,6 +1337,7 @@
   {
     "num": 58,
     "type": "Kategori",
+    "rowLabel": "Action",
     "bentuk": "PGK Kategori",
     "jenis": "Procedure",
     "columns": [
@@ -1347,6 +1365,7 @@
   {
     "num": 59,
     "type": "Kategori",
+    "rowLabel": "Statement",
     "bentuk": "PGK Kategori",
     "jenis": "Procedure",
     "columns": [
@@ -1374,6 +1393,7 @@
   {
     "num": 60,
     "type": "Kategori",
+    "rowLabel": "Step Description",
     "bentuk": "PGK Kategori",
     "jenis": "Procedure",
     "columns": [
@@ -1613,23 +1633,24 @@
   {
     "num": 71,
     "type": "Kategori",
+    "rowLabel": "Statement",
     "bentuk": "PGK Kategori",
     "jenis": "Analytical Exposition",
     "columns": [
-      "Tools/Skills",
-      "Risks"
+      "Fact",
+      "Opinion"
     ],
     "comp": "Evaluasi dan Apresiasi: mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis.",
     "sub_comp": "Menilai fakta atau opini: mampu menilai fakta/opini yang diberikan penulis untuk mendukung pendapatnya berdasarkan bukti atau sekadar berusaha mempengaruhi pembaca.",
     "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
-    "q": "Based on the text, categorize the following items into 'Tools/Skills' mentioned for financial management or 'Risks' mentioned in the digital world.",
+    "q": "Categorize the following statements from the text into Fact or Opinion.",
     "items": [
-      "Budgeting apps and digital trackers",
-      "Predatory lending and high-interest debt",
-      "Sophisticated phishing scams",
-      "Automated savings and investment platforms"
+      "Financial literacy is the most important subject in the world.",
+      "Compound interest and early savings can lead to long-term stability.",
+      "Financial scams have become increasingly sophisticated in the digital age.",
+      "Every student who studies finance will become a millionaire."
     ],
-    "key": "1-Tool/Skill, 2-Risk, 3-Risk, 4-Tool/Skill",
+    "key": "1-Opinion, 2-Fact, 3-Fact, 4-Opinion",
     "correct": [
       0,
       1,
@@ -1640,6 +1661,7 @@
   {
     "num": 72,
     "type": "Kategori",
+    "rowLabel": "Statement",
     "bentuk": "PGK Kategori",
     "jenis": "Analytical Exposition",
     "columns": [
@@ -1649,14 +1671,14 @@
     "comp": "Pemahaman Tekstual: mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks.",
     "sub_comp": "Menemukan/mengidentifikasi Informasi: mampu menemukan atau mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
     "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
-    "q": "Determine if the following statements are True or False according to the text.",
+    "q": "Determine whether these statements are True or False based on the text.",
     "items": [
-      "Financial literacy is primarily about becoming a millionaire quickly.",
-      "Digital tools can help individuals track their spending in real-time.",
-      "Understanding credit scores is irrelevant for long-term goals like buying a home.",
-      "Financial education helps people recognize 'too good to be true' offers."
+      "Many young adults fall into debt because they don't understand interest rates.",
+      "Financial literacy can help students avoid predatory loans.",
+      "The text suggests that credit cards should be banned for everyone.",
+      "Schools currently teach financial literacy to every student in the world."
     ],
-    "key": "1-False, 2-True, 3-False, 4-True",
+    "key": "1-True, 2-True, 3-False, 4-False",
     "correct": [
       1,
       0,
@@ -1667,23 +1689,24 @@
   {
     "num": 73,
     "type": "Kategori",
+    "rowLabel": "Cause and Effect Pair",
     "bentuk": "PGK Kategori",
     "jenis": "Analytical Exposition",
     "columns": [
       "Correct",
-      "Not Correct"
+      "Incorrect"
     ],
     "comp": "Pemahaman Inferensial: mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks.",
     "sub_comp": "Menyimpulkan hubungan sebab-akibat: mampu menafsirkan hubungan/kaitan antara gagasan/tindakan satu dan lainnya yang dinyatakan dalam teks.",
     "text": "<h3 style='text-align: center;'>The Necessity of Financial Literacy in Schools</h3><p>As students transition into adulthood, they face a complex world of credit cards, loans, and investment opportunities. Unfortunately, many young people enter the \"real world\" without basic financial knowledge. Therefore, it is imperative that financial literacy becomes a mandatory part of the high school curriculum.</p><p>One primary reason is the prevention of debt. Many young adults fall into the trap of high-interest credit card debt because they do not understand how interest rates or minimum payments work. By teaching students how to manage debt and understand credit scores, schools can help them avoid financial burdens that could last for decades.</p><p>Furthermore, financial literacy empowers students to plan for the future. Understanding the power of compound interest and the importance of early savings can lead to long-term wealth and stability. Students who learn to budget their money are more likely to achieve their goals, such as buying a home or starting a business, without relying on predatory loans.</p><p>Finally, financial education protects individuals from fraud. In the digital age, financial scams are becoming increasingly sophisticated. A financially literate person is better at recognizing \"too good to be true\" offers and protecting their personal information. Knowledge is the best defense against those who wish to exploit financial ignorance.</p><p>In summary, providing students with financial skills is an investment in their future. It ensures they are responsible, prepared, and protected as they navigate their economic lives.</p>",
-    "q": "Match the Cause and Effect based on the text. Are these pairs Correct or Not Correct?",
+    "q": "Match the Cause with the Effect based on the text. Are these pairs Correct or Incorrect?",
     "items": [
       "Lack of financial education -> Increased risk of falling into debt.",
       "Starting a business -> Always leads to forgetting how to budget.",
       "Financial knowledge -> Better recognition of sophisticated scams.",
       "Using digital tools -> Automatically results in loss of savings."
     ],
-    "key": "1-Correct, 2-Not Correct, 3-Correct, 4-Not Correct",
+    "key": "1-Correct, 2-Incorrect, 3-Correct, 4-Incorrect",
     "correct": [
       0,
       1,
@@ -1694,6 +1717,7 @@
   {
     "num": 74,
     "type": "Kategori",
+    "rowLabel": "Behavior",
     "bentuk": "PGK Kategori",
     "jenis": "Analytical Exposition",
     "columns": [
@@ -1721,6 +1745,7 @@
   {
     "num": 75,
     "type": "Kategori",
+    "rowLabel": "Claim",
     "bentuk": "PGK Kategori",
     "jenis": "Analytical Exposition",
     "columns": [
@@ -1734,8 +1759,8 @@
     "items": [
       "Financial education helps in identifying digital financial scams.",
       "Detailed steps on how to invest in the international stock market.",
-      "Knowledge of credit scores can prevent long-term debt traps.",
-      "A list of the top five budgeting apps currently available for free."
+      "Knowledge of credit scores can prevent long-term financial burdens.",
+      "A list of specific banks that offer the best interest rates."
     ],
     "key": "1-Valid, 2-Invalid, 3-Valid, 4-Invalid",
     "correct": [
